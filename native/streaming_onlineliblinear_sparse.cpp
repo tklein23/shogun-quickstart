@@ -28,14 +28,19 @@ int main(int argc, char* argv[])
 {
     init_shogun_with_defaults();
 
+    std::string val = ::getenv( "SHOGUN_DATA_DIR" );
+    std::string train_file_str = val + "/toy/train_sparsereal.light";
+    std::string test_file_str = val + "/toy/test_sparsereal.light";
+
     float64_t C = 1.0;
-    char *train_file_name = (char*)"../data/toy/train_sparsereal.light";
-    char *test_file_name = (char*)"../data/toy/test_sparsereal.light";
+    const char *train_file_name = train_file_str.c_str();
+    const char *test_file_name = test_file_str.c_str();
+
     char filename_tmp[] = "test_sparsereal.light.labels.XXXXXX";
     char *test_labels_file_name = mktemp(filename_tmp);
 
     if (argc > 4) {
-        int32_t idx = 1;        
+        int32_t idx = 1;
 
         C = atof(argv[idx++]);
         train_file_name = argv[idx++];
