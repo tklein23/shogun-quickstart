@@ -30,7 +30,7 @@ test -d "$BUILDDIR/CMakeFiles/" && rm -r "$BUILDDIR/"
 ### preparing build directoy
 mkdir "$BUILDDIR"
 cd "$BUILDDIR"
-cmake -DCMAKE_BUILD_TYPE=Debug -DENABLE_TESTING=ON -DPythonModular=ON -DJavaModular=ON -DCmdLineStatic=ON -DCMAKE_INSTALL_PREFIX="./install" ..
+cmake -DCMAKE_BUILD_TYPE=Debug -DENABLE_TESTING=ON -DPythonModular=ON -DJavaModular=ON -DCMAKE_INSTALL_PREFIX="./install" ..
 
 ### building, installing and testing (HACK: due to a bug, locale needs to be C)
 time make -j$NUM_JOBS all
