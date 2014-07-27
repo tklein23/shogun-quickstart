@@ -32,7 +32,17 @@ mkdir "$BUILDDIR"
 cd "$BUILDDIR"
 CANONICAL_BUILD_DIR=$(pwd -P)
 CANONICAL_PROJECT_DIR=$(dirname $CANONICAL_BUILD_DIR)
-cmake -DCMAKE_BUILD_TYPE=Debug -DENABLE_TESTING=ON -DPythonModular=ON -DJavaModular=ON -DCMAKE_INSTALL_PREFIX="./install" ..
+CMAKE_EXTRA_OPTS=''
+if [ "$(uname)" == "Darwin" ] && type brew >/dev/null 2>&1; then
+	# on MacOS with brew check whether Python 2.7 is installed via brew
+	BREW_PYTHON=$(brew config | grep Python | sed 's/Python: .* => //')
+	if (echo $BREW_PYTHON | grep -q 'python2.7'); then
+		BREW_PYTHON_HEADERS=$(echo $BREW_PYTHON | sed 's#Versions/2.7/bin/python2.7#Headers#')
+		BREW_PYTHON_LIBRARY=$(echo $BREW_PYTHON | sed 's#bin/python2.7#lib/libpython2.7.dylib#')
+		CMAKE_EXTRA_OPTS="-DPYTHON_INCLUDE_DIR=${BREW_PYTHON_HEADERS} -DPYTHON_LIBRARY=${BREW_PYTHON_LIBRARY} "
+	fi
+fi
+cmake $CMAKE_EXTRA_OPTS -DCMAKE_BUILD_TYPE=Debug -DENABLE_TESTING=ON -DPYTHON_INCLUDE_DIR=/usr/local/Cellar/python/2.7.8/Frameworks/Python.framework/Headers -DPYTHON_LIBRARY=/usr/local/Cellar/python/2.7.8/Frameworks/Python.framework/Versions/2.7/lib/libpython2.7.dylib -DPythonModular=ON -DJavaModular=ON -DCMAKE_INSTALL_PREFIX="./install" ..
 
 ### building, installing and testing (HACK: due to a bug, locale needs to be C)
 time make -j$NUM_JOBS all
