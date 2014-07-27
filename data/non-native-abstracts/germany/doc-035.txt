@@ -1,0 +1,21 @@
+Since the determination in 1981 of the sequence of the human mitochondrial
+DNA (mtDNA) genome, the Cambridge Reference Sequence (CRS), has been used as
+the reference sequence to annotate mtDNA in molecular anthropology, forensic
+science and medical genetics. The CRS was eventually upgraded to the revised
+version (rCRS) in 1999. This reference sequence is a convenient device for
+recording mtDNA variation, although it has often been misunderstood as a
+wild-type (WT) or consensus sequence by medical geneticists. Recently, there
+has been a proposal to replace the rCRS with the so-called Reconstructed
+Sapiens Reference Sequence (RSRS). Even if it had been estimated accurately,
+the RSRS would be a cumbersome substitute for the rCRS, as the new proposal
+fuses-and thus confuses-the two distinct concepts of ancestral lineage and
+reference point for human mtDNA. Instead, we prefer to maintain the rCRS and
+to report mtDNA profiles by employing the hitherto predominant circumfix
+style. Tree diagrams could display mutations by using either the profile
+notation (in conventional short forms where appropriate) or in a
+root-upwards way with two suffixes indicating ancestral and derived
+nucleotides. This would guard against misunderstandings about reporting
+mtDNA variation. It is therefore neither necessary nor sensible to change
+the present reference sequence, the rCRS, in any way. The proposed switch to
+RSRS would inevitably lead to notational chaos, mistakes and
+misinterpretations.

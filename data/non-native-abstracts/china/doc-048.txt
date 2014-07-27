@@ -1,0 +1,11 @@
+Artificial immune system simulates the principle of lymphocytes in the
+natural immune system, detects abnormality in objects to be tested through
+the immune response mechanism. Based on the r-row-matching algorithm, we
+propose a two-stage r-row-matching algorithm. According to the concept of
+immunity, the immunity process and mechanism, we design self-set and
+detector-set by using a sliding window. On this basis, the self-set, the
+detector-set and other generating algorithm, as well as the algorithm of
+detector-set training are implemented. Finally, based on the data structure
+of sliding window, the string recognition algorithm is implemented.
+Experiments show that the algorithm can effectively carry out string
+identification.

@@ -1,0 +1,11 @@
+Due to the existence of hubs in P2P networks, the network becomes more and
+more vulnerable because of great reducing in defending against coordinated
+attacks. This paper propose a model based on trust value of nodes against
+vulnerability, which not only takes into account the node's connections, but
+also gives full consideration about the node's trust value, and the
+calculation of trust value is broken down to various types of the resources.
+In accordance with the type of pre-transaction resources, selects nodes that
+have higher trust and fewer connections to make transaction. Simulation
+proves that this model can avoid generating hubs effectively, improve the
+ability to defend against coordinated attacks, and also enhance the network
+robustness and stability.

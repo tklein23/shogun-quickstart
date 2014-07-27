@@ -1,0 +1,13 @@
+Consideration was given to the following statement of the problem of
+groupcast routing in the wireless multihop network: in the class of
+tree-like routes, it is required to determine a minimal-cost route
+calculated with account for the transmission method used by the MAC
+protocol. If this method takes advantage of the broadcast nature of the
+wireless medium, then the number of attempts of transmission made by a route
+retransmitter and their cost depend on the retransmitter neighbor nodes on
+the route. This peculiarity makes the considered groupcast routing problem
+sufficiently distinct from the classical Steiner tree problem. The
+sensitivity of the route cost to the transmission methods used was analyzed.
+Also a number of the groupcast routing algorithms were proposed which allow
+for the structure of the transmission methods and enable one to reduce the
+cost of routes.

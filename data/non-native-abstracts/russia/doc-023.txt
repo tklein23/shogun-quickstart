@@ -1,0 +1,12 @@
+Monotone absolutely stable conservative difference schemes intended for
+solving quasilinear multidimensional hyperbolic equations are described. For
+sufficiently smooth solutions, the schemes are fourth-order accurate in each
+spatial direction and can be used in a wide range of local Courant numbers.
+The order of accuracy in time varies from the third for the smooth parts of
+the solution to the first near discontinuities. This is achieved by choosing
+special weighting coefficients that depend locally on the solution. The
+choice of optimal weighting coefficients is discussed. The presented schemes
+are numerically efficient thanks to the simple two-diagonal (or block
+two-diagonal) structure of the matrix to be inverted. The capabilities of
+the schemes are demonstrated by computing well-known two-dimensional Riemann
+problems for gasdynamic equations with a complex shock wave structure.

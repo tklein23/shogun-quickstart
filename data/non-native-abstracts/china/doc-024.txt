@@ -1,0 +1,16 @@
+In this paper, we have integrated fuzzy logic in the formal context,
+developing fuzzy formal concept analysis to support the automatic generation
+of primitive fuzzy ontology that can deal with uncertain information. The
+proposed automatic fuzzy ontology generation approach consists of the
+following steps: first, fuzzy formal concepts are created through fuzzy
+formal context; then, the decision rules from the generated formal concept
+are obtained using the implicative relations between two fuzzy concept
+lattices; and next, Fuzzy clustering is adopted to promote the fuzzy concept
+hierarchy of fuzzy concept lattice; finally, a primitive fuzzy ontology is
+constructed according to the concept hierarchy structure. A complete fuzzy
+ontology can be generated through the expanding of primitive ontology. Since
+the fuzzy concept lattice should be from specific fuzzy formal context, the
+proposed automatic generation approach is basis on the concept hierarchy
+structure which supporting concept learning, thus, for each different
+application, it is suitable to pursue the own fuzzy domain ontology model
+automatically.

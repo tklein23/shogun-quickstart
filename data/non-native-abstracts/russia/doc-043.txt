@@ -1,0 +1,16 @@
+In this paper, a new hydrodynamical code for the numerical simulation of the
+collision of the gas components of galaxies is described. The code is based
+on the Fluids-in-Cells method with the Godunov-type scheme at the Eulerian
+stage. Also, the velocity correction is employed at the Lagrangian stage and
+energy imbalance is minimized. The performance of the code is shown by the
+simulation of the collision of gas components of two similar disk galaxies
+in the course of the central collision of the galaxies in the polar
+direction. As a result of the numerical simulations within the model, we
+succeeded in determining the main scenarios of the collision of galaxies. At
+low velocities, both galaxies and their gas components coalesce. At high
+velocities, the massive stellar components of galaxies dissipate almost
+freely, leaving their gaseous components slowed down and heated by the
+collision. If the common gas component of the colliding galaxies cools down
+to the virial temperature, a new galaxy is formed from the two. With the
+high collision velocity, the gas component has no time to cool and therefore
+the gas dissipates in the intergalactic medium.

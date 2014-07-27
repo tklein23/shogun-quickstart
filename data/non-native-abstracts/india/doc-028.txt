@@ -1,0 +1,18 @@
+In this paper we present a framework for realizing arbitrary instruction set
+extensions (IE) that are identified post-silicon. The proposed framework has
+two components viz., an IE synthesis methodology and the architecture of a
+reconfigurable data-path for realization of the such IEs. The IE synthesis
+methodology ensures maximal utilization of resources on the reconfigurable
+data-path. In this context we present the techniques used to realize IEs for
+applications that demand high throughput or those that must process data
+streams. The reconfigurable hardware called HyperCell comprises a
+reconfigurable execution fabric. The fabric is a collection of
+interconnected compute units. A typical use case of HyperCell is where it
+acts as a co-processor with a host and accelerates execution of IEs that are
+defined post-silicon. We demonstrate the effectiveness of our approach by
+evaluating the performance of some well-known integer kernels that are
+realized as IEs on HyperCell. Our methodology for realizing IEs through
+HyperCells permits overlapping of potentially all memory transactions with
+computations. We show significant improvement in performance for streaming
+applications over general purpose processor based solutions, by fully
+pipelining the data-path.

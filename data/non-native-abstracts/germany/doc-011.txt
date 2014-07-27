@@ -1,0 +1,6 @@
+The goal of our research is to improve data availability in large-scale
+wireless networks in a disaster scenario, where spatially correlated group
+of nodes may fail. In this paper, we analytically evaluate the efficacy of
+existing replication schemes from structured overlay networks under relaxed
+system constraints. The analysis shows that these schemes do not guarantee
+data survivability under the assumption of massive node crashes.

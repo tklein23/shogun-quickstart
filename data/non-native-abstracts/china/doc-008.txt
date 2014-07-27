@@ -1,0 +1,9 @@
+The traditional k-means algorithm has sensitivity to the initial start
+center. To solve this problem, this paper proposed a new method to find the
+initial center and improve the sensitivity to the initial centers of k-means
+algorithm. The algorithm first computes the density of the area where the
+data object belongs to; then it finds k data objects, which are belong to
+high density area, as the initial start centers. Experiments based on the
+standard database UCI show that the proposed method can produce a high
+purity clustering results and eliminate the sensitivity to the initial
+centers to some extent.

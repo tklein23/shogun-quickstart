@@ -1,0 +1,7 @@
+This paper presents two innovative techniques developed and implemented for
+the automation of the landmine detection in a data scanned by the laser
+Doppler vibrometer (LDV) based acoustic to seismic (A/S) landmine detection
+system. These techniques are based on the intensity component of the color
+landmine images or on grayscale versions of these images. The obtained
+results are promising in terms of accuracy, consistency, reliability and
+processing time.

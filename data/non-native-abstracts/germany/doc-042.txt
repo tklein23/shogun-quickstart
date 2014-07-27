@@ -1,0 +1,10 @@
+While traditional fixed-wired network protocols like 2-phase-commit
+guarantee atomicity, we cannot use them in mobile low bandwidth networks
+where network partitioning, node failure, and message loss may result in
+blocking. To deploy traditional database applications easily into a mobile
+environment, there is a demand for a protocol which guarantees an atomic
+commit of transactions. This paper introduces a protocol which can guarantee
+such atomic commitment in mobile environments using a combination of commit
+and consensus protocols. In addition, it takes advantage of mobile network
+sub-structures like single-hop environments to reduce message transfer
+costs.

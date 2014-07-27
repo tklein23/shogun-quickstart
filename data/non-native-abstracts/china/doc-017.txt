@@ -1,0 +1,7 @@
+As networks become more and more heterogeneous, SNMP can not meet current
+management requirements for complex networks, especially those configuration
+management needs. NETCONF protocol is a next generation configuration
+protocol developed by IETF organization. In this paper, in the full
+considerations for architectures of NETCONF Agent we explicate the details
+of NETCONF protocol 'implements, especially on its compatibility and
+scalability.

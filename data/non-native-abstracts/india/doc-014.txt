@@ -1,0 +1,18 @@
+In this paper, a threshold voltage model of short-channel
+recessed-source/drain (Re-S/D) ultra-thin body (UTB) SOI MOSFETs has been
+presented considering the substrate induced surface potential (SISP) to
+improve the model accuracy over wide ranges of device parameters and
+substrate bias. The potential distribution of the front and the back
+surfaces of the Si-body have been derived using the evanescent mode analysis
+method in which the channel potential is broken into one-dimensional
+long-channel potential and two-dimensional short-channel potential. A
+one-dimensional Poisson's equation has also been solved in the substrate
+region to account the effect of substrate induced surface potential (SISP)
+at substrate/buried-oxide interface. The minimum front- and back-surface
+potentials of silicon body have been used to obtain front and back channel
+threshold voltages, respectively. However, the smaller one between front and
+back channel threshold voltages is considered to be the threshold voltage of
+the device. The accuracy of the present model has been extended up to 10 nm
+channel length by incorporating the quantum effects induced correction term.
+The model results are verified with simulation results obtained using ATLAS™
+from Silvaco.

@@ -1,0 +1,24 @@
+Makespan minimization on mm identical machines is a fundamental scheduling
+problem. The goal is to assign a sequence of jobs, each specified by a
+processing time, to parallel machines so as to minimize the maximum
+completion time of any job. Deterministic online algorithms achieve a
+competitive ratio of about 1.92. Due to this relatively high competitiveness
+and the lack of progress in the area of randomized online strategies, recent
+research has investigated scenarios where the online constraint is
+relaxed.We study semi-online scheduling where at any time an online
+scheduler knows the sum of the jobs’ processing times. This problem
+relaxation is well motivated by practical applications. The best known
+semi-online algorithm achieves a competitive ratio of 1.6 (Cheng, Kellerer,
+Kotov, 2005 [11]). The best known lower bound is equal to 1.565 (Angelelli,
+Nagy, Speranza, Tuza, 2004 [3]).In this paper, we present two contributions
+for semi-online scheduling. We develop an improved lower bound showing that
+no deterministic semi-online algorithm can attain a competitive ratio
+smaller than 1.585. This significantly reduces the gap between the previous
+lower bound and the upper bound of 1.6. Second, we present a new semi-online
+algorithm that is based on an approach different from that of previous
+strategies. The algorithm is 1.75-competitive and hence does not achieve the
+best possible competitiveness. However, our algorithm is extremely simple
+and, unlike previous strategies, does not resort to job classes. The
+algorithm is more in the spirit of online algorithms not using any extra
+information. Hence our upper bound highlights the additional power of a
+small piece of advice when provided to an online algorithm.

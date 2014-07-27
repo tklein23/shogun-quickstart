@@ -1,0 +1,9 @@
+The issue of scientific knowledge openness is urgent worldwide, but for
+Russia it is particularly crucial because of the inaccessibility of the most
+cited academic journals there. In this paper a solution for this issue is
+proposed by means of the gold- oriented method which assumes placing
+scientific papers of traditional academic journals in open access and
+ensuring their visibility on the Internet. This method is implemented in the
+project of open science repository called as CyberLeninka and discussed in
+details in the paper. Also plans to evolve CyberLeninka to a CERIF-CRIS and
+vision to build the e-infrastructure of Open Science in Russia are provided.

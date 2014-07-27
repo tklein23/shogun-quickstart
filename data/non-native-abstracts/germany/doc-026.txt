@@ -1,0 +1,16 @@
+During business process execution, various systems and services produce a
+variety of data, messages, and events that are valuable for gaining insights
+about business processes, e.g., to ensure a business process is executed as
+expected. However, these data, messages, and events usually originate from
+different kinds of sources, each specified by different kinds of
+description. This variety makes it difficult to automate the detection of
+relevant event sources for business process monitoring. In this paper, we
+present a course of actions to automatically associate different event
+sources to event object types required for business process monitoring. In
+particular, in a three-step approach we determine the similarity of event
+sources to event object types, rank those results, and derive a mapping
+between their attributes. Thus, relevant event sources and their bindings to
+specified event object types of business processes can be identified. The
+approach is implemented and evaluated using schema matching techniques for
+an use case that is aligned with real-world energy processes, data,
+messages, and events.

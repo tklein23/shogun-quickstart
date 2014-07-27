@@ -1,0 +1,22 @@
+Acoustical tomographical reconstruction of the location and sizes of
+spatially localized, random perturbation in a shallow-water oceanic
+waveguides is developed for mid-range distances. As examples of such
+perturbations, clouds of bubbles arising due to breaking wind waves and
+shoals of fishes are discussed. The ray approximation is used for the
+acoustical field description. The oceanic environment is presented as a
+medium with a background of uniformly distributed volume and surface random
+inhomogeneous fluctuations. Complex acoustical repetitive pulses are used as
+the probing signal. The receiving system consists of an array of spatially
+distributed hydrophones. The signals received from all hydrophones are
+processed on the basis of a tomographic algorithm including matched-filter
+processing in the spatial and frequency domains for reconstruction of the
+random time-delay statistical moments (average value and dispersion), which
+are descriptors of the observed random spatially localized inhomogeneity. As
+a specific model of random perturbation, a three-dimensional Gaussian cloud
+of fluctuations associated with parameters of a fish shoal is investigated.
+A vertically distributed array of receivers and a directed source of
+LFM-pulses are tested as the prototype of the tomographical system in a
+shallow waveguide with typical hydrology. Computer simulations of the
+tomographical reconstructions are conducted taking into account
+investigation of the influence of the level of additive noise on the
+accuracy of the reconstructed parameters.

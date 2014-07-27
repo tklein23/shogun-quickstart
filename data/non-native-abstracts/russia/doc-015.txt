@@ -1,0 +1,7 @@
+We report a simple all-fiber design of an Er-doped laser system that is
+capable of generating widely tunable two-cycle pulses. In particular, 13-fs
+pulses at a wavelength of 1.7 μm are produced. The mechanism of pulse
+shortening is identical to the higher-order soliton compression and is
+supported by modeling based on the slowly evolving wave approximation, which
+is well suited for down to single-cycle pulse propagation in nonlinear
+dispersion-shifted fibers.

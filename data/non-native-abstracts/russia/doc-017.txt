@@ -1,0 +1,12 @@
+It is shown that the evolution of water vapor spectra in the 2500-5000
+cm(-1) range recorded at 650 K and pressures up to 130 atms after
+subtraction of monomer contribution may be interpreted qualitatively well on
+the basis of experimental data on water dimer and trimer obtained from cold
+molecular beams and in He droplets. The proposed spectroscopic model
+considers water vapor as a mixture of nonideal monomers, dimers, and trimers
+at chemical equilibrium. The effect of line mixing is taken into account in
+the monomer spectrum modeling. Decomposition of the high temperature spectra
+allowed determining a dimer equilibrium constant that was compared with the
+previously known values. The contribution of water trimer is assessed. The
+performed analysis indicates that the number of bound dimers in water vapor
+is quite large, even at such a high temperature.

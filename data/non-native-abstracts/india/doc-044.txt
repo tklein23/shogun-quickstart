@@ -1,0 +1,18 @@
+To study the influence of TiOx (x≤2) seed layer on the formation of
+perovskite phase in lead zirconate titanate [Pb(Zr0.52Ti0.48)O3] thin films,
+TiOx films of thickness ∼20–480nm were prepared on corning-1737 glass
+substrates by r.f. magnetron sputtering and then post-annealed in air at
+different temperatures (350–650°C). Depending mainly on seed layer
+thickness, TiOx films transform either into anatase or rutile TiO2 after
+air-annealing. Thin PZT films (∼150nm) were then deposited on substrates
+pre-coated with TiOx seed layers and air-annealed at 650°C. It is found that
+thin TiO2 seed layers (≤150nm) promote perovskite phase formation in PZT
+films. Anatase TiO2 promotes the growth of randomly oriented perovskite PZT.
+A (101) textured rutile TiO2 of thickness ∼100nm favours the growth of
+highly oriented perovskite phase along (100) and surface morphology of these
+PZT films shows dense rosette structures. A TiO or an amorphous TiOx seed
+film does not initiate perovskite growth. As the thickness of the TiOx seed
+layer exceeds ∼150nm, perovskite phase does not form readily irrespective of
+the crystalline form/phase of TiOx. Thus, chemical composition, crystalline
+phase and thickness of the TiOx seed layer influence remarkably the
+crystalline phase, texture and surface morphology of the grown PZT films.

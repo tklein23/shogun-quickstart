@@ -1,0 +1,9 @@
+This paper proposes an energy efficient clustering formation algorithm for
+wireless sensor network, which is called ACE-CILP algorithm according to
+considering the energy consumption as an optimization parameter. The
+algorithm can divide a sensor network into a few clusters and select a
+cluster head base on weight value that leads to more uniform energy
+dissipation evenly among all sensor nodes. The simulation results show that
+ACE-CILP algorithm achieves its intention of consuming less energy,
+equalizing the energy consumption of all the nodes, as well as extending the
+network lifetime perfectly.

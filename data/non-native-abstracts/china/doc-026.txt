@@ -1,0 +1,16 @@
+Intrusion detection system (IDS) always focus on low-level attacks and
+raise attacks independently, though there may be logical connections between
+them. Meanwhile, the number of alerts becomes unmanageable including actual
+alerts mixed with false alerts. Therefore, improved techniques are needed.
+The general idea in this paper is to introduce collaboration achieved by
+taking advantage of various kinds of contextual information and thus enable
+IDS to correctly identify successful attacks while simultaneously reducing
+the number of false positives. In this paper, a multilevel event correlation
+structure is proposed by firstly assigning each alert a value of confidence
+using contextual information and then correlates the preprocessed alerts
+based on improved temporal causal correlation combining with confidence
+value. At the end, a scenario graph and a high-level alert with final
+confidence are presented, which indicates the reliability of attacks
+launched through specific path. Through the experimental results with DARPA
+Data sets 2000 from Lincoln laboratory, it demonstrates the potential of the
+proposed techniques.

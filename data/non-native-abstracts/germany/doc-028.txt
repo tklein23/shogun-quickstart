@@ -1,0 +1,14 @@
+Governments are increasingly publishing their data to enable organizations
+and citizens to browse and analyze the data. However, the heterogeneity of
+this Open Government Data hinders meaningful search, analysis, and
+integration and thus limits the desired transparency. In this article, we
+present the newly developed data integration operators of the Stratosphere
+parallel data analysis framework to overcome the heterogeneity. With
+declaratively specified queries, we demonstrate the integration of
+well-known government data sources and other large open data sets at
+technical, structural, and semantic levels. Furthermore, we publish the
+integrated data on the Web in a form that enables users to discover
+relationships between persons, government agencies, funds, and companies.
+The evaluation shows that linking person entities of different data sets
+results in a good precision of 98.3% and a recall of 95.2%. Moreover, the
+integration of large data sets scales well on up to eight machines.

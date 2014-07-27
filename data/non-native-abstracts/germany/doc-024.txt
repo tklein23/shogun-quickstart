@@ -1,0 +1,17 @@
+Nowadays, business process modeling and system-supported executions have
+become a commodity in many companies. Most systems, however, focus on
+modeling and execution of static, pre-defined processes with standards like
+the Business Process Model and Notation (BPMN). While these static process
+executions are applicable to a number of traditional processes like purchase
+orderings or back orderings, they fail at representing variant-rich,
+flexible processes. One solution for supporting flexible processes is
+Adaptive Case Management (ACM), where a case manager is creating an
+individual execution path for each process instance, such as a doctor
+defining a clinical pathway for a specific patient. We found out, however,
+that both approaches are too strict either supporting static process
+definitions with only a limited set of pre-defined flexibility or allowing
+maximum flexibility but requiring a highly skilled knowledge worker. To
+overcome this problem, we propose an implementation framework for Production
+Case Management (PCM) that combines concepts from traditional process
+management and adaptive case management. PCM combines the modeling of small,
+static process fragments with the execution flexibility of ACM.

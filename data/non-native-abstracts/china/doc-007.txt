@@ -1,0 +1,28 @@
+Multi-objective optimization (MOO) involves optimization problems with
+multiple objectives. Generally, theose objectives is used to estimate very
+different aspects of the solutions, and these aspects are often in conflict
+with each other. MOO first gets a Pareto set, and then looks for both
+commonality and systematic variations across the set. For the large-scale
+data sets, heuristic search algorithms such as EA combined with MOO
+techniques are ideal. Newly DNA microarray technology may study the
+transcriptional response of a complete genome to different experimental
+conditions and yield a lot of large-scale datasets. Biclustering technique
+can simultaneously cluster rows and columns of a dataset, and hlep to
+extract more accurate information from those datasets. Biclustering need
+optimize several conflicting objectives, and can be solved with MOO methods.
+As a heuristics-based optimization approach, the particle swarm optimization
+(PSO) simulate the movements of a bird flock finding food. The shuffled
+frog-leaping algorithm (SFL) is a population-based cooperative search
+metaphor combining the benefits of the local search of PSO and the global
+shuffled of information of the complex evolution technique. SFL is used to
+solve the optimization problems of the large-scale datasets.
+This paper integrates dynamic population strategy and shuffled frog-leaping
+algorithm into biclustering of microarray data, and proposes a novel
+multi-objective dynamic population shuffled frog-leaping biclustering
+(MODPSFLB) algorithm to mine maximum bicluesters from microarray data.
+Experimental results show that the proposed MODPSFLB algorithm can
+effectively find significant biological structures in terms of related
+biological processes, components and molecular functions.
+The proposed MODPSFLB algorithm has good diversity and fast convergence of
+Pareto solutions and will become a powerful systematic functional analysis
+in genome research.

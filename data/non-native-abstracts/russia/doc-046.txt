@@ -1,0 +1,7 @@
+Agent-oriented simulation became popular now for performance evaluation of
+distributed systems, in possession of elements
+with cognizant behavior in particular. The agent-oriented simulation package
+named AGNES (AGent NEtwork Simulator) is presented
+as a tool for simulation of sensor networks. The multi-relay selection
+technique for one-to-many signal delivering is described
+as example of its work.

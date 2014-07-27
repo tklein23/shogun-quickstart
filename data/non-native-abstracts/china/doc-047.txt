@@ -1,0 +1,15 @@
+The fairness in TCP Reno has been long known as unsatisfactory as it gives
+more bandwidth shares to short flows while starves the long flows. In this
+paper, a new proposal to improve fairness in TCP Reno is presented. We
+describe the bandwidth allocation among TCP Reno flows into a new utility
+optimised problem, in which the requirement of fairness among flows is taken
+into account in the constrain conditions. This problem is then solved by the
+Karush-Kuhn-Tucker (KKT) condition to achieve a new distributed algorithm to
+allocate bandwidth among flows with fairness being enhanced. On this basis,
+we discuss the implementation of this algorithm in the packet level for real
+networks using the technique of differential dropping in routers. Simulation
+results show that the new proposal regulates the bandwidth share effectively
+and improves the fairness performance of TCP Reno. international journals
+and conferences. His current research interests include performance
+evaluation of computer communication networks, routing protocols for
+wireless sensor networks and wireless ad hoc networks.

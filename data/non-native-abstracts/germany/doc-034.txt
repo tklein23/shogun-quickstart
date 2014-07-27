@@ -1,0 +1,16 @@
+We study the class of linear differential-algebraic m-input m-output systems
+which have a transfer function with proper inverse. A sufficient condition
+for the transfer function to have proper inverse is that the system has
+‘strict and non-positive relative degree’. We present two main results:
+first, a so-called ‘zero dynamics form’ is derived; this form is—within the
+class of system equivalence—a simple form of the DAE; it is a counterpart to
+the well-known Byrnes–Isidori form for ODE systems with strictly proper
+transfer function. The ‘zero dynamics form’ is exploited to characterize
+structural properties such as asymptotically stable zero dynamics, minimum
+phase, and high-gain stabilizability. The zero dynamics are characterized by
+(A, E, B)-invariant subspaces. Secondly, it is shown that the ‘funnel
+controller’ (that is a static non-linear output error feedback) achieves,
+for all DAE systems with asymptotically stable zero dynamics and transfer
+function with proper inverse, tracking of a reference signal by the output
+signal within a pre-specified funnel. This funnel determines the transient
+behaviour.

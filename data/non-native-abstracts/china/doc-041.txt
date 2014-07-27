@@ -1,0 +1,8 @@
+At present, isolated and single network security system can no longer meet
+the objective needs. As a new type of network, trusted network can make up
+many of the traditional network security flaws. Based on the analysis of the
+background and motivation of trusted network, the article discussed the
+concept and basic properties. It analyzed the architecture of trusted
+network and the functions of its composition. Finally, the article discussed
+one of models of the trusted network management platform and described its
+functions.

@@ -1,0 +1,8 @@
+Parallel implementation of the Fluids-in-Cell Method (FlIC) method is
+created for 3D cartesian simulation of an astrophysical
+object collapse. The main parameters of the parallel implementation are
+given of the FlIC method. The equations under solution
+are the gas dynamics equations and Poisson equation. Simulation of collapse
+with FlIC method is compared to SPH simulation.
+As a result, we can state that FlIC method provided fine enough grid gives
+better spatial resolution than SPH.

@@ -1,0 +1,13 @@
+Microstructure of the double-layered ceramic thermal barrier coatings of
+lanthanum zirconate (LZ) and yttria-stabilized zirconia (YSZ) with bond coat
+on Ni-based superalloy deposited by electron beam evaporation process has
+been studied. Two sets of combination of LZ and YSZ were deposited: one LZ
+over YSZ and the other YSZ over LZ. The interfaces of each layer were
+studied and were found to be sharp; however, some diffusion of elements from
+below layer was observed. The detailed selected area diffraction of the
+phases was carried out from the coating cross-section specimens. The LZ
+layer was mostly found to be amorphous, and fine columnar growth was
+observed. The YSZ layer over LZ showed two different crystal structures at
+interface and at the top surface, which were cubic and tetragonal,
+respectively. The YSZ layers showed clear columnar grains with feather-like
+intercalated structure

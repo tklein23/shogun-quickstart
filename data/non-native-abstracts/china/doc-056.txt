@@ -1,0 +1,17 @@
+Intrusion detection is an important part of network security protection.
+Traditional intrusion detection systems (IDSs) only focus on low-level
+attacks and raise alerts independently, though there may be logical
+connections between them. At the same time, the amount of alerts becomes
+unmanageable including actual alerts mixed with false alerts. Therefore,
+improved techniques are needed. The general idea is to introduce
+collaboration achieved by taking advantage of vulnerability analysis as
+contextual information and thus enable IDSs to correctly identify successful
+attacks while simultaneously reducing the number of false positives and
+providing a stronger validation attack scenario. In particular, with the
+verification pattern with precondition and effect of successful attack and
+necessary context (mainly modeled as host and connectivity information), the
+architecture that proposes in this paper can reduce the false alert rate and
+identify true alerts corresponding to successful attacks to construct attack
+scenario. Through the experimental results with DARPA Data Sets 2000 from
+Lincoln laboratory and the Treasure Hunt Dataset, it demonstrates the
+potential of the proposed techniques.

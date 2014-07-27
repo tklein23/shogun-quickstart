@@ -1,0 +1,9 @@
+An ion source based on a two-stage discharge with electron injection from a
+cold emitter is presented. The first stage is the emitter itself, and the
+second stage provides acceleration of injected electrons for gas ionization
+and formation of ion flow (<20 eV, 5 A dc). The ion accelerating system is
+gridless; acceleration is accomplished by an electric field in the discharge
+plasma within an axially symmetric, diverging, magnetic field. The hollow
+cathode electron emitter utilizes an arc discharge with cathode spots hidden
+inside the cathode cavity. Selection of the appropriate emitter material
+provides a very low erosion rate and long lifetime.

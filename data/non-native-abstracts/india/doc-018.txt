@@ -1,0 +1,20 @@
+Aerial telecommunications have been investigated for three decades through
+the design and evaluation of stratospheric platforms able to offer multiple
+types of wireless services. HAP may be airplanes or airships and may be
+manned or unmanned with autonomous operation coupled with remote control
+from the ground. There is increasing interest in the development of airspace
+platforms in recent years, for example, HAP carrying equipment for
+telecommunications, remote sensing or digital broadcasting. The multiple
+types of platform are able to carry a communication payload at different
+altitudes. Regarding the altitude of aerial communication, there are three
+categories of balloons, High Altitude Platforms (HAP), Medium Altitude
+platform (MAP) and Low Altitude Platform (LAP). HAPs provide an excellent
+option for emergency communications, their survivability during a disaster
+and ability to be continuously on station offer an ideal solution for an
+emergency communications capability. This paper focused on the basic
+characteristics of communication systems based on HAP, it outlines
+alternative network architecture scenarios for provision of wireless access
+to broadband communication services. HAP can coexist with WiMAX in same
+coverage area. Therefore, these systems can work efficiently and effectively
+with share frequency to sustain high QoS.
+

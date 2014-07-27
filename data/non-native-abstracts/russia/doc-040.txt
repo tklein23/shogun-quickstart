@@ -1,0 +1,13 @@
+Development of computer vision systems raises a problem of creating
+effective methods for restoring surface characteristics from their
+photographic images minimizing calculations while preserving reasonable
+accuracy of measurements. Here optimized algorithms of the surface
+reconstruction from stereo-images is proposed. The optimization is achieved
+by introducing some constraints on the conditions of image recording and by
+involving an a priory affirmation about objects in study. Effective
+algorithms have been developed on the basis of correlation method estimating
+corresponding points on images in stereo set and disparity map computation.
+Performance optimization is achieved by some modifications of correlation
+method including a pyramidal presentation of the images. The system uses a
+stereoscopic registration of face images and performs real-time image
+processing. The system was tested on a database of stereo- images.

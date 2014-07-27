@@ -1,0 +1,20 @@
+Development of test programs and analysis of the results of their execution
+is the basic approach to verification of microprocessors at the system
+level. There is a variety of methods for the automation of test generation,
+starting with the generation of random code and ending with directed
+model-based test generation. However, there is no cure-all method. In
+practice, combinations of various complementary techniques are used.
+Unfortunately, no solution for the integration of various test generation
+methods into a unified environment is currently available. To test a
+microprocessor, verification engineers are forced to use many different test
+generators, which results in a number of difficulties, such as (1) the
+necessity to ensure the compatibility of tool configurations (in each tool,
+a specific description of the target microprocessor is used, which leads to
+duplication of information); (2) the necessity to develop utilities for
+integration tools (different tools have different interfaces and use
+different data formats). This paper describes a concept of extensible
+environment for test program generation for microprocessors. This
+environment provides a unified approach for test generation; it supports
+widespread test generation techniques, and can be extended by new testing
+tools. The proposed concept was partially implemented in MicroTESK
+(Microprocessor T Esting and Specification Kit).

@@ -1,0 +1,12 @@
+P2P networks were new stars of 21 century and they were widely used in
+nowadays networks. It was very important to study the frangibility of P2P
+networks and know the characteristics when nodes invalidated or suffered
+intentionally attacked which would be good used in future. This paper
+analyzed the frangibility of Gnutella works, including suffered random
+failure, degree attack and betweenness attack. And fully study the
+frangibility of P2P networks base on small world architecture (SWAN), the
+SWAN was best fault tolerance when suffered randomly attack, but worst fault
+tolerance when suffered hostility attack compared with the ER model. And
+also the frangibility of P2P networks base on small world architecture was
+analyzed theoretically and a closed-form solution for average size of
+clusters was given which before the largest size of cluster had appeared.

@@ -1,0 +1,15 @@
+This paper describes how the allocation of stream of tasks, with minimum
+knowledge, is possible in a distributed computing
+system. In literature, almost all the task allocation models in a
+distributed computing system require a priori knowledge
+of tasks execution time, communication time etc. on the processing nodes.
+Since the task assignment is not known in advance,
+this time is difficult to estimate. A cluster-based dynamic allocation
+scheme is proposed for both the distributed computing
+system and the tasks that eliminate the execution time requirement. Further,
+as opposed to a single task, multiple tasks are
+considered for allocation by the model. For both the task clustering and
+processor clustering a fuzzy function is used. Clustering
+and assignment process is used dynamically as it suits the stochastic stream
+of incoming tasks. Experimental validate the
+efficacy of the proposed model.

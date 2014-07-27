@@ -1,0 +1,43 @@
+Freestanding polycrystalline diamond (PCD) coatings are of immense
+technological importance. PCD has been grown over silicon substrates by
+microwave plasma assisted chemical vapor deposition (MWPACVD) process. The
+coatings are grown by suitable optimisation of the growth parameters of a
+915 MHz microwave reactor. Thereafter, 1:1:1 solution of hydrofluoric acid
+(HF), nitric acid (HNO 3) and acetic acid (CH 3 COOH) is used to etch out
+the silicon wafer from the backside of the coating. Hereby, freshly
+generated nucleation surface, could be characterised by scanning electron
+microscopy (SEM), atomic force microscopy (AFM), Raman spectroscopy and
+stylus profilometer and could be compared with the growth side. It is found
+that both the nucleation side and growth side are of very high quality (full
+width at half maxima, i.e., FWHM < 8 cm -1). The growth side is (111)
+textured, whereas, the nucleation side is very smooth with embedded
+detonation-nano-diamond (DND) agglomerates. These freestanding coatings are
+successfully laser cut into different geometrical shapes. They are found to
+be optically translucent having high refractive index. Cross-sectional
+microscopy of the laser cut edge reveals novel melting features of the CVD
+grown diamond columns. Free-standing diamond films over large area are
+technologically very important for many applications due to their unique
+mechanical, optical, electrical and thermal properties. These free-standing
+films, either in plate form or in foil form, have to be smooth, and
+chemically clean with low residual stress and considerable thickness
+uniformity 1-6 . They can be brazed to a supporting frame or may be free
+standing as per the end applications, like Gyrotron windows, supporting rods
+for helix transmission wave tubes (TWTs), x-ray optics, thermal management
+etc. (Table 1) 7-9 . The thicknesses of these free standing films may vary
+from few nanometres to few millimetres, depending on the end use and can be
+up to 300 mm in diameter. Synthesis of Freestanding Diamond Presently, the
+most sought after method to prepare free-standing diamond film is the
+microwave plasma chemical vapor deposition (MPCVD) technique. Diamond films
+are deposited on carbide-forming substrates like Si, Mo, and Ta by MPCVD.
+Now to make the deposited coating freestanding, films are to be separated
+from the substrate by chemical etching or mechanical peeling 1-6,10 . Fan et
+al. 10 deposited PCD by two-step microwave plasma CVD process on copper
+substrates to overcome film cracking due to thermal mismatch between the
+substrate and the film. The coating naturally peeled off during first step
+of cooling down from higher temperature, thus delaminating the PCD film,
+over which, further crack-free PCD growth occurs in the subsequent step.
+Further, the authors characterised both the growth side and the nucleation
+side of such freestanding films. Lee et al. 11 also adopted similar
+principle of multiple-step CVD growth. They decreased the growth temperature
+by 10°C each after 24 h and had thermal gradient cooling after completion of
+deposition and thereby avoided growth cracks in the freestanding films 11-13

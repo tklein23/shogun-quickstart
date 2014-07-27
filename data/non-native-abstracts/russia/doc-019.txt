@@ -1,0 +1,10 @@
+The stability of the injection of short electron beams and the dynamic
+processes that occur during their transport were experimentally studied.
+Beams of energy 200-300 keV, current of 1-1500 A, and duration of 0.05-3 ns
+with a current rise time of 30-300 ps were formed in a cold-cathode
+electrode gap. The distribution of the accelerating electric field was
+highly nonuniform. The cases of vacuum and air insulation of the electron
+diode were considered. The shortest beams with currents of a few amperes
+were generated in the mode of continuous acceleration of electrons in
+atmospheric air. For measuring beam currents, special collector probes were
+used which ensured a picosecond resolution.

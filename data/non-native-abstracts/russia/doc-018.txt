@@ -1,0 +1,16 @@
+According to neurobiological experiments, the effect of the appearance of
+spontaneous bioelectric discharges in neural networks
+of the brain satisfies the statistics of self-organized criticality.
+Theoretical investigations indicate that the critical
+behavior is an optimal regime for the storage and processing of information
+in the brain. Many model works focused on the
+approximation of the experimental data and on the investigation of
+information characteristics of signals, whereas the problem
+of dynamical mechanisms of their avalanche generation remains almost
+unstudied. The conditions of the appearance of high-frequency
+discharges at the critical dynamical threshold have been analyzed in the
+framework of the biophysical model of the neuronal
+network. A probabilistic model of the layer-by-layer activation of cells,
+which makes it possible to estimate the key relations
+between the parameters for avalanche generation of the discharge, has been
+proposed.

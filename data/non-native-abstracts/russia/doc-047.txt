@@ -1,0 +1,6 @@
+We consider the using of graph models (graphs, hypergraphs and hypernets)
+for some analysis of functioning problems of the modern information
+networks. We discuss some examples of application of these models -
+investigated by us and other authors. Using of model Hypernet for the
+analysis of networks is described on the example of modeling attacks problem
+and network monitoring.

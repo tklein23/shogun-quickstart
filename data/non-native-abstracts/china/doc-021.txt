@@ -1,0 +1,7 @@
+Effective prediction of the software reliability is one of the active pares
+of software engineering. This paper proposes a novel approach based on
+wavelet transform and neural network (NN). Using this approach, the time
+series of software faults can be decomposed into four components
+information, and then predict them by NN respectively. The experience
+results show that the performance of novel software reliability prediction
+approach is satisfactory.

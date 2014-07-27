@@ -1,0 +1,13 @@
+Many programs for scientific computing in Python are based on NumPy and
+therefore make heavy use of numerical linear algebra (NLA) functions,
+vectorized operations, slicing and broadcasting. AlgoPy provides the means
+to compute derivatives of arbitrary order and Taylor approximations of such
+programs. The approach is based on a combination of univariate Taylor
+polynomial arithmetic and matrix calculus in the (combined) forward/reverse
+mode of Algorithmic Differentiation (AD). In contrast to existing AD tools,
+vectorized operations and NLA functions are not considered to be a sequence
+of scalar elementary functions. Instead, dedicated algorithms for the matrix
+product, matrix inverse and the Cholesky, QR, and symmetric eigenvalue
+decomposition are implemented in AlgoPy. We discuss the reasons for this
+alternative approach and explain the underlying idea. Examples illustrate
+how AlgoPy can be used from a user's point of view.

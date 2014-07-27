@@ -1,0 +1,13 @@
+This paper proposes the most feasible configuration of a stand alone PV/Wind
+Hybrid Energy System with diesel generator as a backup for cellular mobile
+telephony base station site in isolated areas of Central India. It is
+expected that the newly developed and installed system will provide very
+good opportunities for mobile telephony base station in near future. The
+meteorological data of Solar Insolation, hourly wind speed, are taken for
+Bhopal, Central India and the pattern of load consumption of mobile base
+station are studied and suitably modeled for pre-feasibility study of the
+hybrid energy system. This system is more cost effective and environmental
+friendly over the conventional diesel generator. It should reduced
+approximate Seventy to Eighty percent fuel cost over conventional diesel
+generator and also reduced the emission of Carbon dioxide and other harmful
+gasses in environments.

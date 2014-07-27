@@ -1,0 +1,18 @@
+Electrophysiological signals such as the EEG, MEG, or LFPs have been
+extensively studied over the last decades, and elaborate signal processing
+algorithms have been developed for their analysis. Many of these methods are
+based on time-frequency decomposition to account for the signals' spectral
+properties while maintaining their temporal dynamics. However, the data
+typically exhibit intra- and interindividual variability. Existing
+algorithms often do not take into account this variability, for instance by
+using fixed frequency bands. This shortcoming has inspired us to develop a
+new robust and flexible method for time-frequency analysis and signal
+feature extraction using the novel smooth natural Gaussian extension (snaGe)
+model. The model is nonlinear, and its parameters are interpretable. We
+propose an algorithm to derive initial parameters based on dynamic
+programming for nonlinear fitting and describe an iterative refinement
+scheme to robustly fit high-order models. We further present distance
+functions to be able to compare different instances of our model. The
+method's functionality and robustness are demonstrated using simulated as
+well as real data. The snaGe model is a general tool allowing for a wide
+range of applications in biomedical data analysis.

@@ -1,0 +1,11 @@
+The porous core layer deposited by modified chemical vapour deposition
+process has been analyzed in terms of thickness, pore size distribution,
+homogeneity and characteristics of the soot particles to investigate their
+variation with deposition temperature and input vapour composition. The
+compositions selected were SiO(2), SiO(2)-GeO(2) and SiO(2)-P(2)O(5). Rare
+earth ions were incorporated into the deposit by a solution doping
+technique. The analysis of deposited microstructures was found to provide a
+quantitative indication about the rare earth incorporation and its variation
+with respect to process conditions. Thus the characterization provides a
+method of controlling rare earth doping and ultimate preform/fiber
+properties.

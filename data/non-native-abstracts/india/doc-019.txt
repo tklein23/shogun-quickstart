@@ -1,0 +1,43 @@
+Methodology checking is a cell level physical design checking flow used to
+identify layout characteristics that could potentially create problems
+during Chip-level Floor planning and Physical Design. Various types of
+library elements - like standard cells, IOs and macros have different types
+of constraints and requirements to be checked against.
+The inputs required for the checking flow include the layout to be checked,
+a LEF, a text datasheet and a template (which the checked design needs to
+use as reference). This data is processed and a number of checks like
+technology checks, boundary checks, density checks, metal & via checks, pin
+& blockage checks are performed in the Methodology checking flow.
+This paper will focus on the use of the “template”. Traditionally, the
+template is a “pre-defined” layout which gets pulled into the flow. It is
+stored as a GDS or OASIS file and it defines a book-level topology, which is
+designed in such a way that it allows the routing tool to place and stack
+cells together and route them easily. For example, all standard cell books,
+like NAND & NOR, need to follow a similar kind of metal and pin structure.
+Further, there are pre-defined “slots” denoting areas where signal pins can
+be created. Using this sort of an approach early in the layout phase ensures
+design optimization and also reduces unexpected DRC errors cropping up
+during chip integration. 
+As we move to advanced technology nodes, the design of this “template” is
+becoming very complicated. Any change in the size of the design requires a
+new template with its own unique features. A “simple” approach of repeating
+templates would rob the design team of flexibility to work with custom
+designs. On the other hand, creating a template for each topology or custom
+design would lead to a tremendous amount of manual effort for template
+generation. If a template is modified at a later stage, that would require a
+refresh of all designs using that as a reference.
+In order to overcome all of the above issues, the authors came up with a
+dynamic template generation flow. This flow uses the Synopsys ICV tool and a
+TCL script to decide which template should be used for which design and also
+to create the template layout “on-the-fly”. The tool can create metals,
+pins, text labels, specified tracks where power lines can be added and even
+hit points which the router can use to access pins in the design. Since the
+tool is built on ICV, it can be part of the usual physical verification
+flow.
+Dynamic template generation allows complete flexibility in creating unique
+templates for custom designs and also eliminates the need to manually create
+and maintain template layouts separately. Every template requirement can be
+stored in a spec document and dynamically created during the run. Overall,
+this solution adds value to both the design teams (no need to create and
+maintain template layouts) and the methodology development team (custom
+specifications allowed, no special processing required for selected cells).

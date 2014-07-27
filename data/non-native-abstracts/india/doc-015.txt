@@ -1,0 +1,13 @@
+In this letter, a low-profile quad-band antenna array for
+multiple-input–multiple-output (MIMO) application has been presented. The
+proposed two-antenna array operates at GPS
+L1/Bluetooth/Wi-Fi/LTE2500/WiMAX/HIPERLAN1 frequency bands. Each antenna
+element has an area of $25times 10 {hbox{mm}}^{2}$ over a small ground plane
+of the size $100times 60 {hbox{mm}}^{2}$ . To maintain the small size of the
+antenna element, folded patch is used. A rectangular slot is etched on the
+main radiator to utilize the higher-order mode. A quarter-wavelength
+resonator is integrated at the edge of folded patch to get an additional
+resonance for quad-band operation. An antenna prototype is fabricated, and
+measured results are in good agreement with simulated results. Radiation
+characteristics and diversity performance of the proposed structure are
+presented.

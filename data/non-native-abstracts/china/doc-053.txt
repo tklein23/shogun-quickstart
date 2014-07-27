@@ -1,0 +1,10 @@
+As a kind of brand-new information acquisition and the processing
+technology, the wireless sensor network has great significance in
+application and scientific research in many fields. But the node
+localization information plays a key role in the application of wireless
+sensor network. In view of the present situation that the two-dimensional
+plane node localization algorithm is difficult to be practiced in the
+three-dimensional space, three-dimensional localization algorithm (TDLA) has
+been proposed in this paper. Simulations indicate that TDLA can carry out
+localization on sensor node in the three-dimensional space effectively and
+turns to be one kind of localization methods which can be applicable.

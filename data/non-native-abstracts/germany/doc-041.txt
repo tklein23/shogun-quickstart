@@ -1,0 +1,15 @@
+Thus far, developers have created only partial solutions for using
+computational equipment in education. Research must focus more effort on
+developing architectures capable of combining technologies that target the
+classroom and that allow specifying "what" rather than "how" tasks should be
+done. The difficult task of architecting multimedia environments for
+teaching must start with a needs analysis. The most challenging task
+involves warranting reliability on the one hand, while accommodating
+opportunities for innovation on the other. Thus, we propose building a
+reliable, ubiquitous, adaptable, and easy-to-use technology-integrating
+black box. Placing this system atop a service-oriented component model
+implemented on a platform-independent layer such as a virtual machine
+provide the adaptability developers need. Loosely coupled components
+accommodate a nonmonolithic approach and ease reuse. By reusing and
+enhancing components, the system become increasingly reliable, while a
+building-block architecture keep it manageable.

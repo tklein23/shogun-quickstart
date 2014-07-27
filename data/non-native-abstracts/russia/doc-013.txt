@@ -1,0 +1,10 @@
+Influence of shear flows of the dense plasma created under conditions of
+the electron cyclotron resonance (ECR) gas breakdown on the plasma
+confinement in the axisymmetric mirror trap ("vortex" confinement) was
+studied experimentally and theoretically. A limiter with bias potential was
+set inside the mirror trap for plasma rotation. The limiter construction and
+the optimal value of the potential were chosen according to the results of
+the preliminary theoretical analysis. This method of "vortex" confinement
+realization in an axisymmetric mirror trap for non-equilibrium heavy-ion
+plasmas seems to be promising for creation of ECR multicharged ion sources
+with high magnetic fields, more than 1 T.

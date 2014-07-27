@@ -1,0 +1,5 @@
+The crude global search that is used in parameter space investigation
+provides approximations to the set of efficient points. Estimates of
+approximation errors are established and numerical examples confirm these
+estimates. The investigated examples can be used as tests for various
+numerical methods.

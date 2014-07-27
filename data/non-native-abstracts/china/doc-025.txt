@@ -1,0 +1,11 @@
+The evenness of energy consumption is one of design challenges for data
+transmission in wireless sensor networks (WSNs) which are affected by the
+energy-hole problem. With the circular network model which typically
+represents for a cluster in the clustered WSNs, we sliced the circular field
+into concentric circular bands of fixed width. A energy-balanced consumption
+scheme is then presented by combining the direct transmission protocol and
+multi-hop transmission protocol. Different from other existed schemes, our
+scheme can give a closed-form solution for the probability of multi-hop
+transmission mode and that of direct transmission mode. Numerical results
+show our scheme balances the energy consumptions of the sensors in different
+bands, while keeping the total energy consumption in a rather low level.

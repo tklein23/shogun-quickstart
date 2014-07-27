@@ -1,0 +1,17 @@
+Service discovery is a fundamental concept in service networks. It provides
+networks with the capability to publish, browse and locate service
+instances. Service discovery is thus the precondition for a service network
+to operate correctly and for the services to be available. In the last
+decade, decentralized service discovery mechanisms have become increasingly
+popular. Especially in ad-hoc scenarios - such as ad-hoc wireless networks -
+they are an integral part of auto-configuring service networks. Albeit the
+fact that auto-configuring networks are increasingly used in application
+domains where dependability is a major issue, these environments are
+inherently unreliable. In this paper, we examine the dependability of
+decentralized service discovery. We simulate service networks that are
+automatically configured by Zeroconf technologies. Since discovery is a
+time-critical operation, we evaluate responsiveness - the probability to
+perform some action on time even in the presence of faults - of domain name
+system (DNS) based service discovery under influence of packet loss. We show
+that responsiveness decreases significantly already with moderate packet
+loss and becomes practicably unacceptable with higher packet loss.

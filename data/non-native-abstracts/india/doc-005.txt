@@ -1,0 +1,12 @@
+ABSTRACT Interactive cooperation of local best and global best solution
+encourages particles to move towards them, with a hope that better solution
+may present in the neighboring positions around local best or global best.
+However, this encouragement does not guarantees that movements taken by
+particle will always be the suitable one (comparatively better solution).
+With the influence of three random parameters in PSO-RANDIW increases
+exploration power as well as probability of unsuitable movements (move
+towards comparatively worst solution). These unsuitable movement may delay
+in convergence. In this paper, we have introduced a noble method to avoid
+such move with cognition of particle's own worst solution. Analysis on well
+known four benchmark functions shows proposed approach performance is
+comparatively better.

@@ -1,0 +1,23 @@
+The total cost of an Earthquake Early Warning System (EEWS) can be
+substantially decreased by using Wireless Sensor Networks (WSNs), which are
+inexpensive computer networks whose nodes communicate wirelessly using a
+license-free spectrum in a self-organized manner. The Early Warning System
+triggers on the small-amplitude, but fast P-wave in order to shutdown
+critical infrastructures before the destructive, but slow S-waves arrive
+only a few seconds later. It demands low-latency communications of high
+robustness. Our shakeboard-based measurements show that already for the
+slight shaking related to P-waves representative for strong (Mw >; 6) and
+nearby (epicentral distance <; 40 km) earthquakes, the performance of the
+wireless communications can be considerably affected at the very moment when
+the Early Warning system is supposed to be used. We observed swift link
+quality oscillations of up to 10 dB within only half a second caused by
+multi-path interference and shadow fading. We propose a new alarming and
+routing protocol in order to meet the challenges of swiftly changing link
+qualities and low latency communications of high robustness as required by
+EEWSs. Our protocol is based on the new paradigm of anypath routing and
+optimized for the unique application of Earthquake Early Warning. Extensive
+simulations are conducted using topologies realistic for user deployed
+networks, i.e. with several bridges and articulation points. Our evaluation
+yields good results for WSNs of up to 500 nodes. For networks of more sensor
+nodes the results are acceptable but can still be improved.
+

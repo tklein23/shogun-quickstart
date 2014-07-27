@@ -1,0 +1,9 @@
+This short paper presents a framework for periodic execution of task-flow
+graphs that enables schedulability analysis of the communication
+requirements. The analysis performs the steps of segmenting messages,
+assigning the segments to specific links and time intervals, and ordering
+them within the intervals to generate node switching schedules that provide
+contention-free message routing at run-time. The analysis is also used to
+integrate task allocation with message routing using a contention-based
+objective function. Usefulness of the proposed scheme in ensuring guaranteed
+communication performance is demonstrated by an appropriate example.

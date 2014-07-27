@@ -1,0 +1,16 @@
+One main TCP congestion control objective is, by dynamically adjusting the
+source window size according to the router queue level, to stabilize the
+buffer queue length at a given target, thereby achieving predictable
+queueing delay, reducing packet loss and maximizing link utilization. One
+difficulty therein is the TCP acknowledging actions will experience a time
+delay from the router to the source in a TCP system. In this paper, a
+time-delay control theory is applied to analyze the mechanism of
+packet-dropping at router and the window-updating in TCP source in TCP
+congestion control for a TCP/RED dynamic model. We then derive explicit
+conditions under which the TCP/RED system is asymptotically stable in terms
+of the instantaneous queue. We discuss the convergence of the buffer queue
+lengths in the routers. Our results suggest that, if the network parameters
+satisfy certain conditions, the TCP/RED system is stable and its queue
+length can converge to any target. We illustrate the theoretical results
+using ns2 simulations and demonstrate that the network can achieve good
+performance and converge to the arbitrary target queues.

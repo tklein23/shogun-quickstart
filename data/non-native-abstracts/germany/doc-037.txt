@@ -1,0 +1,26 @@
+Patients want to be more involved in medical decision-making. To this end,
+some decision aids are now available.
+We present an overview of this subject, in which we explain the terms
+"shared decision-making", "decision aid", and "evidence-based patient
+information" and survey information on the available decision aids in German
+and other languages on the basis of a literature search in MEDLINE, EMBASE
+and PsycInfo and a current Cochrane Review. We also searched the Internet
+for providers of decision aids in Germany.
+Decision aids exist in the form of brochures, decision tables, videos, and
+computer programs; they address various topics in the prevention, diagnosis,
+and treatment of disease. They typically contain information on the
+advantages and disadvantages of the available options, as well as guidance
+for personal decision-making. They can be used alone or as a part of
+structured counseling or patient education. Minimal quality standards
+include an adequate evidence base, completeness, absence of bias, and
+intelligibility. Our search revealed 12 randomized controlled trials (RCTs)
+of decision aids in German and 106 RCTs of decision aids in other languages.
+These trials studied the outcome of the use of decision aids not just with
+respect to clinical developments, but also with respect to patient
+knowledge, adherence to treatment regimens, satisfaction, involvement in
+decision-making, autonomy preference, and decisional conflicts.
+Only a small fraction of the available decision aids were systematically
+developed and have been subjected to systematic evaluation. Patients are
+still not receiving the help in decision-making to which medical ethics
+entitles them. Structures need to be put in place for the sustainable
+development, evaluation and implementation of high-quality decision aids.

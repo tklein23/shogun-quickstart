@@ -1,0 +1,16 @@
+Recent progress in powerful subpicosecond laser generation technology
+has stimulated interest in interaction of ultrashort electromagnetic
+pulses with nonlinear media. Being a classical example of a nonlinear
+medium and a traditional object of laboratory investigations, the plasma
+demonstrates an extreme variety in behavior under the action of the
+electromagnetic fields. Characteristic rise and relaxation times of
+nonlinear response can be varied by a few orders of magnitude depending
+on particle concentration, wavelength, external magnetic field, etc.
+Thus, the ultrashort pulse duration should be defined as a particular
+notion with respect to the phenomenon in question. In this paper we take
+interest in electromagnetic wave-plasma interaction processes faster
+than the relaxation of the nonlinear plasma response. In this context,
+we treat the interaction as essentially dynamical and the plasma as a
+medium with long-term memory properties. The nonsteady state of the
+nonlinear coupling and the plasma wake generation are two main features
+essential to the basic physical effects and applications.

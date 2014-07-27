@@ -1,0 +1,19 @@
+We report blue light up-conversion (UC) emission in Yb–Tm co-doped
+nano-phase separated yttria-alumino-silicate (YAS) glass based D-shaped with
+low-index cladding optical fibers. Y2O3 creates an environment of nano
+structured YAS glass phases with Yb and Tm rich zone into the core glass
+which confirmed from TEM analyses. This kind of glass host assists in
+distributing of Yb and Tm rich zone uniformly throughout the core region. Yb
+and Tm doped regions exist mainly into nano YAS phases, defined as RE rich
+nano YAS-RE phases. All samples exhibit UC luminescence peaks at 483 nm, 650
+nm and 817 nm for Tm3+ and 1044 nm for Yb3+ under excitation by 975 nm laser
+light. In such type of nano-engineered glass–ceramic based host, almost all
+the Yb ions transferred its energy to the nearer Tm ions. In particular 483
+nm emission is attributed to 1G4→3H6 transition through a three step
+resonance energy transfer (ET) from excited Yb3+. The highest emission
+intensity is obtained with a concentration of 0.5 wt% Tm3+ and 2.0 wt% Yb3+.
+The ET between Yb3+ and Tm3+ is increased with increase of Yb3+
+concentration with respect to Tm3+. The experimental fluorescence life-times
+of Tm3+ upconversion emission at visible wavelengths into such kind of fiber
+is reported under 975 nm pump excitation. The present study is important for
+development of an efficient tunable 483 nm fluorescence light source.

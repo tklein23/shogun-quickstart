@@ -1,0 +1,15 @@
+Applications deployed in mobile peer-to-peer systems have to cope with
+mobility and fluctuation of nodes. These dynamics restrict the reliability
+of communication links as well as the availability of certain nodes,
+services, and resources. Exploring the context of nodes can be used to
+anticipate these shortages. Context-awareness enables improvement of
+performance of systems and enables adaptation of applications in order to
+make their behavior more relevant with respect to their current situation.
+Preevaluation of context can be used to estimate future availability of
+crucial resources and reliability of communication links. Which information
+is considered to be relevant context information varies according to the
+application scenario. In this paper, we present a model for context
+information along with a mobile service that provides a local view of
+surrounding nodes in a Mobile Ad-hoc NETwork (MANET). The service is
+designed to enable efficient prediction of future stability of the vicinity
+of a node.

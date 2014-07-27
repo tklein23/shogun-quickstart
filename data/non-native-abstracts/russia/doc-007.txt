@@ -1,0 +1,12 @@
+The key importance of the sign of the stress-optic anisotropy ratio for
+reducing thermally induced depolarization in cubic crystals with 432, 4¯3m
+and m3m symmetry is addressed. A simple method for measuring the
+stress-optic anisotropy ratio (including its sign) was proposed and verified
+in CaF<₂ and TGG crystals by experiment. The ratio at room temperature for
+the wavelength 1076 nm was measured to be -0.47 and + 2.25, respectively. In
+crystals with a negative value of this parameter thermally induced
+depolarization may be reduced significantly by choosing crystal orientation.
+In a CaF₂ crystal with the [111] orientation a 20-fold reduction of
+thermally induced depolarization as compared to the [001] orientation was
+obtained in experiment, which is very promising for using CaF₂ as an active
+element in high-average-power lasers.

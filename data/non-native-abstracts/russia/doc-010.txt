@@ -1,0 +1,11 @@
+Colloidal particle lens array (CPLA) proved to be an efficient near-field
+focusing device for laser nanoprocessing of materials. Within CPLA,
+spherical particles do not act as independent microlenses. Due to the
+coupling of the spherical modes, the field near the clusters of spherical
+microparticles cannot be calculated by means of the superposition of Mie
+solutions for individual spheres. In the paper, the electromagnetic field
+distributions near laser-irradiated clusters of dielectric microspheres with
+configurations that match the fragments of the close-packed CPLA are
+studied. It is shown that some practically important mode coupling effects
+can be understood in terms of an effective immersion medium formed for the
+spherical particle by its surrounding.

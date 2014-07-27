@@ -1,0 +1,47 @@
+A genetic network can be represented as a directed graph in which a node
+corresponds to a gene and a directed edge specifies the direction of
+influence of one gene on another. The reconstruction of such networks from
+transcript profiling data remains an important yet challenging endeavor. A
+transcript profile specifies the abundances of many genes in a biological
+sample of interest. Prevailing strategies for learning the structure of a
+genetic network from high-dimensional transcript profiling data assume
+sparsity and linearity. Many methods consider relatively small directed
+graphs, inferring graphs with up to a few hundred nodes. This work examines
+large undirected graphs representations of genetic networks, graphs with
+many thousands of nodes where an undirected edge between two nodes does not
+indicate the direction of influence, and the problem of estimating the
+structure of such a sparse linear genetic network (SLGN) from transcript
+profiling data.
+The structure learning task is cast as a sparse linear regression problem
+which is then posed as a LASSO (l1-constrained fitting) problem and solved
+finally by formulating a Linear Program (LP). A bound on the Generalization
+Error of this approach is given in terms of the Leave-One-Out Error. The
+accuracy and utility of LP-SLGNs is assessed quantitatively and
+qualitatively using simulated and real data. The Dialogue for Reverse
+Engineering Assessments and Methods (DREAM) initiative provides gold
+standard data sets and evaluation metrics that enable and facilitate the
+comparison of algorithms for deducing the structure of networks. The
+structures of LP-SLGNs estimated from the INSILICO1, INSILICO2 and INSILICO3
+simulated DREAM2 data sets are comparable to those proposed by the first
+and/or second ranked teams in the DREAM2 competition. The structures of
+LP-SLGNs estimated from two published Saccharomyces cerevisae cell cycle
+transcript profiling data sets capture known regulatory associations. In
+each S. cerevisiae LP-SLGN, the number of nodes with a particular degree
+follows an approximate power law suggesting that its degree distributions is
+similar to that observed in real-world networks. Inspection of these
+LP-SLGNs suggests biological hypotheses amenable to experimental
+verification.
+A statistically robust and computationally efficient LP-based method for
+estimating the topology of a large sparse undirected graph from
+high-dimensional data yields representations of genetic networks that are
+biologically plausible and useful abstractions of the structures of real
+genetic networks. Analysis of the statistical and topological properties of
+learned LP-SLGNs may have practical value; for example, genes with high
+random walk betweenness, a measure of the centrality of a node in a graph,
+are good candidates for intervention studies and hence integrated
+computational - experimental investigations designed to infer more realistic
+and sophisticated probabilistic directed graphical model representations of
+genetic networks. The LP-based solutions of the sparse linear regression
+problem described here may provide a method for learning the structure of
+transcription factor networks from transcript profiling and transcription
+factor binding motif data.

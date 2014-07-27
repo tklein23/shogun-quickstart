@@ -1,0 +1,14 @@
+At present, the FAQ (frequently-asked question) answering system cannot
+understand the user's questions at the concept level, so its efficiency
+needs to be improved. In this paper, a model of FAQ answering system based
+on concept is proposed. The system model consists of three components, which
+are concept-based preprocessing, extraction of question-answer pairs, and
+concept-based matching of sentences. On the one hand, the model proposes an
+index-based extracting method of question-answering pairs, to combine the
+extraction with the index mechanism for improving the speed of extraction.
+On the other hand, the model expands the user's question at the concept
+level, and proposes a concept based matching method between sentences, to
+match the user's question with the question-answering pairs. The concept
+based matching method concerns the synonymous meanings between sentences at
+the concept level. In addition, the experimental result shows the matching
+method is an efficient method.

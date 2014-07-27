@@ -1,0 +1,15 @@
+Alternating minimization (AltMin) is a generic term for a widely popular
+approach in non-convex inference: often, it is possible to partition the
+variables into two (or more) sets, so that the problem is convex/tractable
+in one set if the other is held fixed (and vice versa). This allows for
+alternating between optimally updating one set of variables, and then the
+other. AltMin methods typically do not have associated global consistency
+guarantees; even though they are empirically observed to perform better
+than methods (e.g. based on convex optimization) that do have guarantees.
+
+In this talk, we will present rigorous performance guarantees for AltMin in
+three statistical inference settings: low rank matrix completion, phase
+retrieval and learning sparsely-used dictionaries. The overarching theme
+behind our results consists of two parts: (i) devising new initialization
+procedures (as opposed to doing so randomly, as is typical), and (ii)
+establishing exponential local convergence from this initialization.

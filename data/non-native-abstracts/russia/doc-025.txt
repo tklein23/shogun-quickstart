@@ -1,0 +1,3 @@
+The theory of Coulomb explosion of a plasma is used to estimate the
+maximum energy of ions produced upon irradiation of an ultrathin foil by
+a relativistically strong ultrashort laser pulse.

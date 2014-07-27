@@ -1,0 +1,7 @@
+Microwave amplification in relativistic backward wave oscillator operating
+below its self-excitation threshold is considered. The conditions that allow
+to achieve high gain provided with stable operation of the backward wave
+amplifier (BWA) were found. Several schemes of use of the relativistic BWA
+providing high power microwave amplification were studied. It is shown that
+employing a BWA in regenerative amplification regime allows to obtain more
+than 40 dB gain with efficiency over 20%.

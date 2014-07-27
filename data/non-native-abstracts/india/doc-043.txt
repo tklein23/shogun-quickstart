@@ -1,0 +1,18 @@
+Lead Zirconate Titanate [Pb(Zr,Ti)O3, PZT] thin films have been extensively
+studied due to their possible applications in ferroelectric and
+piezoelectric devices. This work deals with the synthesis and
+characterization of ultra thin PZT films of thickness ∼100 nm deposited on
+Si/SiO2/TiO2/Pt(111) by RF Magnetron Sputtering under optimized deposition
+and post-annealing conditions. Various techniques like XRD, XPS, SIMS, SEM
+and TEM, have been employed to characterize the film nanostructure and the
+interface quality in the post-annealed films. Though the XRD results showed
+the formation of ∼87 vol% perovskite phase with 111 orientation, the films
+failed to show good electrical and ferroelectric properties. In XPS study of
+annealed PZT films, Pb was found to exist in both oxidised and metallic
+states. Both SIMS depth profiling and STEM-EDX line profile results showed
+that there is an enrichment of Pb along the PZT/Pt interface. This suggests
+interdiffusion of the elements in the film during post-annealing. It is
+concluded that interdiffusion of the chemical species during annealing
+results in Pb enrichment at the film substrate interface. In addition, the
+presence of ∼13% non-ferroelectric pyrochlore phase as well as some amount
+of Pb species present in metallic state further degrades the film quality.

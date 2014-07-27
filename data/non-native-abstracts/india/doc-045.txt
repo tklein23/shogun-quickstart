@@ -1,0 +1,15 @@
+Undoped TiO2 and Ag–TiO2 (up to 23 at.% Ag) cermet thin films and
+polycrystalline powders have been prepared by sol–gel process. Their
+structure, composition, surface morphology and optical properties have been
+investigated by X-ray diffraction (XRD), differential thermal analysis
+(DTA), scanning electron microscopy (SEM), X-ray photoelectron spectroscopy
+(XPS), secondary ion mass spectrometry (SIMS) and ultraviolet–visible
+spectroscopy (UV–VIS spectroscopy). It has been observed that while Ag does
+not form a solid solution with TiO2, it promotes the anatase to rutile phase
+transformation. The transformation temperature decreases from 827 °C for
+undoped TiO2 to about 650 °C for 23 at.% Ag-doped TiO2. SIMS analyses show
+that Ag is mostly present on the surface of the films. XPS studies confirm
+that these Ag are in the Ag0 state. Optical analyses show that with
+increasing Ag content, the refractive index (n) increases and the optical
+absorption behavior of the cermet films is modified, but the band gap of the
+anatase TiO2 is not influenced.

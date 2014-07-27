@@ -1,0 +1,16 @@
+A method for measuring electrophoretic mobilities by means of
+isotachophoresis (ITP) at a constant voltage as described by H. Carchon and
+E. Eggermont (Electrophoresis, 1982, 3, 263-274) is analyzed. An error made
+in this work, disregarding the pH shift arising at the initial discontinuity
+on the leader-terminator boundary, has been corrected. This method has been
+carefully studied and generalized for the presence of constant
+electroosmotic flow in a capillary. The limits of its applicability and the
+diffusionless ITP theory in general are discussed. A detailed study of the
+evolution of initial discontinuity (stationary boundary) showed some
+anomalies not reported previously, particularly non-monotonic concentration
+profiles in the vicinity of stationary boundaries. Moreover, in some cases,
+diffusion effects and the contribution of H+ ions can also strongly
+influence the behavior of moving boundaries. Computer modelling (confirmed
+by experimental data) showed that these effects could lead to the decay of
+the ITP train, despite the fact that the steady state diffusionless ITP
+theory predicts its stability.

@@ -1,0 +1,11 @@
+We show that it is possible to produce nearly bandwidth-limited few-cycle
+attosecond pulses based on periodic resonance interaction of a
+quasi-monochromatic radiation with the bound states of hydrogenlike atoms. A
+periodic resonance is provided by a far-off-resonant laser field with
+intensity much below the atomic ionization threshold via periodic tunnel
+ionization from the excited states and adiabatic Stark splitting of the
+excited energy levels. Without external synchronization of the spectral
+components, it is possible to produce 135 as pulses at 13.5 nm in
+Li²⁺-plasma controlled by radiation of a mode-locked Nd:YAG laser, as well
+as 1.25 fs pulses at 122 nm in atomic hydrogen controlled by radiation of a
+CO₂ laser.

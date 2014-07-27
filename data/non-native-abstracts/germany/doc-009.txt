@@ -1,0 +1,23 @@
+A classic result of G.A. Dirac in graph theory asserts that for n⩾3 every
+n-vertex graph with minimum degree at least n/2 contains a spanning
+(so-called Hamilton) cycle. G.Y. Katona and H.A. Kierstead suggested a
+possible extension of this result for k-uniform hypergraphs. There a
+Hamilton cycle of an n-vertex hypergraph corresponds to an ordering of the
+vertices such that every k consecutive (modulo n) vertices in the ordering
+form an edge. Moreover, the minimum degree is the minimum (k−1)-degree, i.e.
+the minimum number of edges containing a fixed set of k−1 vertices. V. Rödl,
+A. Ruciński, and E. Szemerédi verified (approximately) the conjecture of
+Katona and Kierstead and showed that every n-vertex, k-uniform hypergraph
+with minimum (k−1)-degree (1/2+o(1))n contains such a tight Hamilton cycle.
+We study the similar question for Hamilton ℓ-cycles. A Hamilton ℓ-cycle in
+an n-vertex, k-uniform hypergraph (1⩽ℓ<k) is an ordering of the vertices and
+an ordered subset of the edges such that each such edge corresponds to k
+consecutive (modulo n) vertices and two consecutive edges intersect in
+precisely ℓ vertices.We prove sufficient minimum (k−1)-degree conditions for
+Hamilton ℓ-cycles if ℓ<k/2. In particular, we show that for every ℓ<k/2
+every n-vertex, k-uniform hypergraph with minimum (k−1)-degree
+(1/(2(k−ℓ))+o(1))n contains such a loose Hamilton ℓ-cycle. This degree
+condition is approximately tight and was conjectured by D. Kühn and D.
+Osthus (for ℓ=1), who verified it when k=3. Our proof is based on the
+so-called weak regularity lemma for hypergraphs and follows the approach of
+V. Rödl, A. Ruciński, and E. Szemerédi.

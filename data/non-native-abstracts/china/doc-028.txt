@@ -1,0 +1,6 @@
+This paper proposes a method of story segmentation for news video using
+multimodal analysis. The method detects the topic-caption frames, integrates
+them with silence clips detection, shot segmentation to locate news story
+boundaries. On test data with 135,400 frames, the accuracy rate 87.9% and
+the recall rate 98.7% are obtained. The experimental results show the method
+is promising and robust.

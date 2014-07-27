@@ -1,0 +1,9 @@
+The correlation between topology and search algorithm is less paid attention
+to in unstructured P2P network. In this paper, we focus on designing better
+search algorithm to adapt to the current network rather than to design the
+universal algorithm to adapt to a variety of network. Analyzing the
+characteristics that the flooding algorithm showing in different search
+stages in different network, we put forward the segment search algorithm.
+Through experiments we find that it has good results. In addition, we design
+our algorithm to be simple, as a module that can be easily applied to
+existing unstructured P2P systems for immediate impact.

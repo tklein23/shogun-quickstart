@@ -1,0 +1,11 @@
+In most sensor network applications, the information gathered by sensors
+will be meaningless without the location of the sensor nodes. Node
+localization has been a topic of active research in recent years. Accurate
+self-localization capability is highly desirable in wireless sensor network
+(WSN). This paper proposes a genetic simulated annealing algorithm based
+localization (GSAAL) algorithm for WSN. The proposed algorithm adopts two
+new genetic operators: single-vertex- neighborhood mutation and the
+descend-based arithmetic crossover. Four example problems are used to
+evaluate the performance of the proposed algorithm. Simulation results show
+that our algorithm can achieve higher accurate position estimation than
+semi-definite programming with gradient search localization (SDPL).

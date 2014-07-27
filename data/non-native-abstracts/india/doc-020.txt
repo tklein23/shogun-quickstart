@@ -1,0 +1,20 @@
+An X-ray powder profile analysis in vanadium pentoxide powder milled in a
+high energy vibrational ball-mill for different
+lengths of time (0–250 h), is presented. The strain and size induced
+broadening of the Bragg reflection for two different
+crystallographic directions ([001] and [100]) was determined by
+Warren-Averbach analysis using a pattern-decomposition method
+assuming a Pseudo-Voigt function. The deformation process caused a decrease
+in the crystallite size and a saturation of crystallite
+size of ∼ 10 nm was reached after severe milling. The initial stages of
+milling indicated a propensity of size-broadening
+due to fracture of the powder particles caused by repeated ball-to-powder
+impact whereas with increasing milling time microstrain
+broadening was predominant. WA analysis indicated significant plastic strain
+along with spatial confinement of the internal
+strain fields in the crystallite interfaces. Significant strain anisotropy
+was noticed in the different crystallographic directions.
+A near-isotropy in the crystallite size value was noticed for materials
+milled for 200 h and beyond. The column-length distribution
+function obtained from the size Fourier coefficients progressively narrowed
+down with the milling time.

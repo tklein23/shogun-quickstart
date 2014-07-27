@@ -1,0 +1,5 @@
+An improved Vegas scheme is proposed with a measure of congestion control as
+average round trip time rather than round trip time. It enhanced the
+prevention of congestion control. Simulation results demonstrate in some
+scenario that the instantaneous queue length improved the stability and
+decreased response time.

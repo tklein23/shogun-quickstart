@@ -1,0 +1,13 @@
+Two-dimensional (2-D) analytical modeling for a novel multiple region MOSFET
+device architecture-Tri-Material Gate Stack MOSFET-is presented, which shows
+reduced short-channel effects at short gate lengths. Using a three-region
+analysis in the horizontal direction and a universal depletion width
+boundary condition, the 2-D potential and electric field distribution in the
+channel region along with the threshold voltage of the device are obtained.
+The proposed model is capable of modeling electrical characteristics like
+surface potential, electric field, and threshold voltage of various other
+existent MOSFET structures like dual-material-gate, electrically induced
+shallow junction/straddle-gate (side-gate), and single-material-gate
+MOSFETs, with and without the gate stack architecture. The 2-D device
+simulator ATLAS is used over a wide range of parameters and bias conditions
+to validate the analytical results

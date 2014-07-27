@@ -1,0 +1,26 @@
+We performed a set of numerical experiments in order to better simulate the
+circulation of Atlantic Water in the Arctic Ocean by employing a coupled
+ice-ocean Arctic regional model. We found that the inflow of Atlantic Water
+via Fram Strait is weak in the case of high viscosity and diffusivity
+coefficients (1 . 108 cm2/s and 1 . 107 cm2/s) and creates an anticyclonic
+circulation in the Eurasian basin. This flow increases significantly when
+both coefficients are scaled down (to 1 . 107 cm2/s and 0.5 . 106 cm2/s) but
+the current path is then unstable, and it becomes mostly anticyclonic after
+about a decade of integration. A further reduction of these coefficients
+leads to growing instabilities due to insufficient grid resolution.
+Short-term integration of the model with doubled space resolution shows
+better agreement with observations, but long-term calculation is still
+restricted by simulation time. Alternatively, a lower resolution version of
+this model benefits from parameterizations of subscale processes.
+Incorporation of the Neptune parameterization of eddy-topography interaction
+into the model intensifies the current steered by subsurface topography and
+results in cyclonic circulation of the Atlantic Water in every subbasin and
+in the whole Arctic region. In the absence of salinity restoring there was
+strong salinity drift at the surface, resulting in a salinity increase in
+the central Arctic by 3 units from 1960 to 2005. The Arctic freshwater
+content is driven basically by year-to-year variations of convective mixing
+involving more saline water from lower layers. After cooling and increasing
+in salinity through brine rejection, the surface water becomes denser,
+leading to even stronger convective mixing. One-dimensional model tests
+showed how model performance could be improved by implementing a lower
+vertical diffusion coefficient and higher vertical resolution.

@@ -1,0 +1,14 @@
+In a Spoken Dialog System the Dialog Manager(DM) is the component
+responsible for managing the state of the conversation and deciding what
+action to take next. Traditional rule-based DM's are unable to handle the
+increasing complexity and sophistication of modern conversational systems
+like Apple Siri or Samsung S-Voice, and there has been much recent
+interest in building data-driven solutions instead. In this talk, I will
+give an overview of the current state of the art in machine learning
+methods applied to Dialog Management particularly on the problems of
+Belief Tracking (monitoring the state of the dialog and the intent of the
+user) and Action Selection (deciding what to say next). I will describe a
+graphical model approach for Belief Tracking called a Probabilistic 
+Ontology Tree and present results of the recently concluded First Dialog 
+State Tracking Challenge. I will also survey recent Reinforcement Learning 
+approaches to Action Selection.

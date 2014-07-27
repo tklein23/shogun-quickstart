@@ -1,0 +1,12 @@
+ABSTRACT Quantifying software reliability, such as performance and
+dependability, through stochastic behavior models (or labeled transition
+systems) is already a common practice in the software analysis community.
+However, those models are usually too fine grained to represent an accurate
+view of the software system by its stakeholders. Scenarios, on the other
+hand, are capable not only to describe the system traces as behavior models
+do but also depict very clearly the system components designed to provide
+the intended system behavior as well as to outline a high level architecture
+view of the system being described. In this paper, we introduce a case study
+of a safety critical computer based system that is running in an Indian
+Nuclear Power Plant. We define clear component interfaces, from which we
+analyze its software reliability.

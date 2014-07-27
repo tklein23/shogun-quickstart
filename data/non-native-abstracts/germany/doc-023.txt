@@ -1,0 +1,13 @@
+With the increasing uptake of business process management efforts in
+companies, similarity search in large process model repositories has gained
+significance, as it forms a cornerstone of effective process model
+management and reuse. Similarity search uses a process model as query and
+retrieves all models, which resemble the query, in a ranked order. So far,
+the quality of the ranking has not been investigated. In this paper, we
+propose quality measures for similarity search results in order to address
+this problem, providing information on how good and how differentiated the
+results are. Our measures assess result statistics, which are derived from
+the similarity to the query model, and the agreement of different rankings,
+produced by diverse similarity measures. We apply our findings to a
+reference process model collection and comprehensively evaluate their
+prediction towards human assessment of process similarity.

@@ -1,0 +1,14 @@
+We present a Model Driven Development (MDD) approach to the development of
+access control policies for distributed systems. The models are expressed as
+Meta-Object Facility (MOF) models enriched by Unified Modeling Language
+(UML) profiles. The view-based access control model is used as an example,
+for which we present a platform independent meta-model and platform specific
+meta-models for the Java 2 Platform, Enterprise Edition (J2EE). A management
+application is used to build instance models for the platform independent
+and platform specific meta-models, respectively.We present in this paper how
+the platform independent models can be used to generate the platform
+specific models, and how the meta-models can be used to generate the models
+for the specific application. Finally, the platform specific models are used
+to generate the security policy to be deployed in the security
+infrastructure.We show how consistence requirements can be verified formally
+by using category-based graph transformations.

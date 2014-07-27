@@ -1,0 +1,9 @@
+With the energy constrained nature of wireless sensors, it is a substantial
+design issue to make efficient use of battery power in order to increase
+their lifetime. An optimal routing approach is critical to prolong the
+lifetime of the network. This paper presents a novel clustering scheme
+integrating hierarchical method on the basis of classical routing algorithm.
+Simulation results show that the new scheme efficiently mitigates the hot
+spot problem in WSN and achieves much improvement in network lifetime and
+load balance compared to the old algorithm LEACH, which is the most
+promising hierarchical routing algorithm to date.

@@ -1,0 +1,12 @@
+This article analyzes the nonlinear phase noise caused by an amplified
+spontaneous-emission of erbium-doped optical fiber
+amplifier and self-phase modulation (SPM) in a differential phase-shift
+keying modulation- balanced direct detection optical
+fiber communication system. Using numerical methods, the characteristic
+function of the differential nonlinear phase noise
+cos(Dj){\cos (\Delta \varphi)} in the received electrical current of signals
+and the accurate computation formula of the BER are achieved when SPM is
+dominant
+comparing to cross phase modulation and four wave mixing. The result is
+verified by a simulation of a 40-Gbit/s transmission
+system.

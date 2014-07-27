@@ -1,0 +1,8 @@
+We suggest a Penning-type discharge as a trigger discharge for fast
+development of pulsed electron cyclotron resonance plasma. The Penning-type
+discharge glows at a low pressure as needed. Gyrotron radiation (75 GHz, 200
+kW, 1 ms) was used for plasma heating. Fully striped helium ions were
+demonstrated, average charge of ions in the plasma was ≈ 2. Experiment and
+calculations show that high charge states of heavier gases require lower
+initial pressure and longer development time. Only moderate charge states
+are achievable in this pulsed scheme.

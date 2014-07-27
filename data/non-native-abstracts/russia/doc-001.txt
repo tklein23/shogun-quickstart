@@ -1,0 +1,18 @@
+UV irradiation of polymeric PMMA films containing HAuCl4 followed by
+annealing at 60–80°C forms gold nanoparticles directly within the bulk
+material. The kinetics of nanoparticle formation was traced by extinction
+spectra of nanocomposite film changes vs annealing time. We propose that UV
+irradiation causes HAuCl4 dissociation and thus provides a polymeric matrix
+with atomic gold. The presence of an oversaturated solid solution of atomic
+gold in the polymeric matrix leads to Au nanoparticle formation during
+annealing. This process can be understood as a phase transition of the first
+order. In this paper we apply several common kinetic models of the phase
+transition for describing Au nanoparticle formation inside the solid polymer
+matrix. We compare predictions of these models with the experimental data
+and show that these models cannot describe the process. We propose that the
+stabilization effect of the matrix on the growing gold nanoparticles is
+important. The simplest model introducing some probability for the
+transition from growing nanoparticle to the non-growing, stabilized form is
+suggested. It is shown that this model satisfactorily describes the
+experimentally observed evolution of the extinction spectrum of Au
+nanoparticles forming in a polymer matrix.

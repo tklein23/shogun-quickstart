@@ -1,0 +1,11 @@
+For blind persons, information is often presented through substitute media.
+We explore the possibility of emulating visual perception through haptic
+perception completely using a new haptic display and using games as a
+paradigm. We decsribe an implementation of Sudoku which utilizes the
+capabilities of the display: representing the full Sudoku square in its
+natural form; entering numbers and notes in the boxes of the square;
+emulating visual scanning for information through scanning by touch;
+interacting by finger movement (gestures). The only non-haptic component
+consists of sounds played to signal the outcome of actions. This
+demonstrates the advantages of the planar touch-sensitive refreshable haptic
+display when compared with other interaction modes for blind persons.

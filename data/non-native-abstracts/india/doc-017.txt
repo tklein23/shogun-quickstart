@@ -1,0 +1,10 @@
+A compact dual-band MIMO/diversity antenna is presented with J-slot suitable
+for 2.45/5.80 GHz WLAN applications in handheld devices. The radiating
+elements are two planar inverted F antennas (PIFA) constructed by metallic
+plates and parasitic elements. The antenna is designed to operate at the
+resonant frequency 2.45GHz and 5.8GHz of WLAN bands. The proposed antenna
+having excellent Envelope Correlation Coefficient (ECC) is well below 0.01,
+which meet the diversity performances of MIMO (multiple-input
+multiple-output) antenna. The proposed MIMO antenna is characterized with
+S-parameters, surface current distributions, diversity parameters, and
+radiation patterns.

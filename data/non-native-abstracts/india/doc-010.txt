@@ -1,0 +1,5 @@
+In analogy with Piezoelectric Wafer Active Sensors (PWAS), Lead Zirconate
+Titanate (PZT) thin films also seem to be promising for Structural Health
+Monitoring (SHM) due to a number of reasons. Firstly, PZT thin films with
+well oriented domains show enhanced piezoelectric response. Secondly, PWAS
+requires comparatively large voltage leading to a demand for thin PZT films

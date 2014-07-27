@@ -1,0 +1,11 @@
+This paper proposes a strategy of the summary sentence selection for
+query-focused multi-document summarization through extracting keywords from
+relevant document set. It calculates the query related feature and the topic
+related feature for every word in relevant document set, then obtains the
+importance of the word by combining the two features. The score of candidate
+sentence is computed through the importance of words which they contains,
+and the modified MMR technology is used to adjust the score of the candidate
+sentence, then the candidate sentence with the highest score is selected as
+the summary sentence, till the length of the summary is enough. Experimental
+result shows that our method performs very well in DUC 2005 corpus and DUC
+2006 corpus.

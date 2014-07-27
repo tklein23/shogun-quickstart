@@ -1,0 +1,19 @@
+Based on the results of X-ray diffractometry (XRD) and analytical
+scanning/transmission electron microscopy (S/TEM), the crystallization trend
+and local chemistry of sputtered PZT films on SrTiO3 (STO) coated corning
+glass substrates have been scrutinized as functions of STO layer thickness
+(∼20–150 nm) and post-annealing temperature (450 C–650 °C). It is shown that
+as a seed layer, STO thin films promote perovskite PZT nucleation at the
+PZT/STO interface at a temperature of ∼450 °C. Irrespective of STO seed
+layer thickness, PZT films evolve as a bi-layered structure comprising of
+tetragonal perovskite and disordered fcc fluorite upon post-annealing. The
+perovskite crystals are found to be enriched with Pb and lean in Zr and
+oxygen than fluorite structures. During the post-crystallization growth, Zr
+atoms get preferentially segregated from perovskite structures and
+accumulate in top fluorite zone resulting in Zr-enrichment in the latter.
+Thinner STO seed layers are observed to be more effective in realizing
+better perovskite growth while crystallographic orientation selection of
+perovskite is dependent on both seed layer thickness and post-annealing
+temperature. Transverse compositional homogeneity of the grown perovskite
+PZT and the level of Pb-diffusion from film to the seed layer and glass
+substrate are also observed to be seed layer thickness dependent.

@@ -1,0 +1,11 @@
+Detonation nanodiamond (DND) seeding recently emerged as an effective method
+for enhancing nucleation of chemical vapor deposited (CVD) diamond on
+non-diamond substrates. This work attempts to provide insight on this
+effect. For this purpose, polycrystalline diamond coatings were deposited on
+DND-treated silicon substrates. The exposed nucleation surface side was
+examined with x-ray diffraction (XRD), scanning electron microscopy (SEM)
+and high-resolution transmission electron microscopy (HRTEM); it was found
+to contain micron-sized granular features, composed of 25-40 nm diamond
+nanocrystals, similar in size to the DND seeds. HRTEM images further confirm
+this similarity. A detailed analysis of the nanocarbon phase diagram
+suggests that nanodiamond crystals can form under CVD environments.

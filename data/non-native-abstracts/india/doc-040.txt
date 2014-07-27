@@ -1,0 +1,13 @@
+With a view to understand how high strain rate flyer plate impact affects
+the nanohardness of a coarse (10 μm) grain high density (3.978 gm.cc−1)
+alumina, load controlled nanoindentation experiments were conducted with a
+Berkovich indenter on as received alumina (ARA) and shocked alumina
+fragments (SA) of obtained from a flyer plate shock impact study at 6.5 GPa.
+The results showed that the nanohardness of the shocked alumina (SA) samples
+was much lower than that of the as received alumina (ARA) samples and that
+the indentation size effect (ISE) was mild in the ARA but quite severe in
+the SA samples. Extensive additional characterization by field emission
+scanning electron microscopy (FE-SEM), transmission electron microscopy
+(TEM) and a physical model based analysis of the experimental load depth
+data were utilized to provide a new explanation for the presence of strong
+indentation size effect in the shock recovered alumina.

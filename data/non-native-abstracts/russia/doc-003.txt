@@ -1,0 +1,9 @@
+When an intense laser pulse propagates through a cluster gas it is shown
+that a plasma channel with a refractive index higher than its
+surrounding region is produced. In the high intensity regime, that leads
+to a novel self-confinement effect which keeps the laser beam from
+diverging. This effect is of importance for ultrashort pulse durations,
+less than 100-300 fs, depending on ion mass, and is limited by the
+expansion process caused by strong heating in the near-solid density
+cluster microplasma. A computational study of the self-confinement
+effect has been performed where long plasma channels were demonstrated.

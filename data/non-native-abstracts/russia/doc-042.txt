@@ -1,0 +1,3 @@
+Linear differential and difference equations whose coefficients and
+right-hand sides are polynomials are considered. The problem of constructing
+all rational solutions of an equation is solved.

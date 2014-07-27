@@ -1,0 +1,10 @@
+We study a microscopic follow-the-leader model on a circle of length L with
+a bottleneck. Allowing large bottleneck strengths we encounter very
+interesting traffic dynamics. Different types of waves--travelling and
+standing waves and combinations of both wave types--are observed. The way to
+find these phenomena requires a good understanding of the complex dynamics
+of the underlying (nonlinear) equations. Some of the phenomena, like the
+ponies-on-a-merry-go-round solutions, are mathematically well known from
+completely different applications. Mathematically speaking we use Poincaré
+maps, bifurcation analysis and continuation methods beside numerical
+simulations.

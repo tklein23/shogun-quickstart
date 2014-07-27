@@ -1,0 +1,10 @@
+This paper describes a home energy management system (HEMS) based on power
+line communication. Smart metering and power line communication can provide
+detailed information of energy consumption patterns and intelligent
+controlling to appliances at home. We propose a HEMS that can provide
+easy-to-access information on home energy consumption in real time,
+intelligent planning for controlling appliances, and optimization of power
+consumption at home. The HEMS consists of three modules: an advanced power
+control planning engine, a device control module, and a power resource
+management server. Our prototype system reduces the cost of power
+consumption by about 10%.

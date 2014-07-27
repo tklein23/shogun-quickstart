@@ -1,0 +1,10 @@
+Observations of nearly zero toroidal current in the central region of
+tokamaks (the "current hole") raises the question of the existence of
+toroidal equilibria with very low or reversed current in the core. The
+solutions of the Grad-Shafranov equilibrium equation with hollow toroidal
+current density profile including negative current density in the plasma
+center are investigated. Solutions of the corresponding eigenvalue problem
+provide simple examples of such equilibrium configurations. More realistic
+equilibria with toroidal current density reversal are computed using a new
+equilibrium problem formulation and computational algorithm which do not
+assume nested magnetic surfaces.

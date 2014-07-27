@@ -1,0 +1,11 @@
+The topology of wireless sensor networks (WSNs) can be controlled through
+changing the transmission power of each node. We propose an adaptive energy
+efficient topology (AEET) algorithm where each node adaptively adjusts its
+transmission radius by local decisions about its residual power and optimal
+transmission radius. We give detailed AEET and analyses the communication
+radius in an ideal linear model and two cases of the adaptive topology
+control. The AEET mechanism and the topology control procedure are also
+given. AEET guarantees a suitable connected node set through interaction.
+The resulting network topology increases WSNs lifetime by adaptively
+adjusting transmission power. Through simulating AEET, the result proves
+AEET scheme is able to prolong lifetime.

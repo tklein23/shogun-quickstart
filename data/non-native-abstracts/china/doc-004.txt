@@ -1,0 +1,15 @@
+Energy saving is one of strategic aspects for telecommunication network. As
+an important content of telecommunication network energy saving
+technologies, the adaptive constant temperature and humidity control and
+energy saving technology for air conditioner in telecommunication equipment
+room is a very useful method. Because the cooling capacity of air
+conditioning for telecommunication equipment room is designed not only to
+meet the demand in hot summer but also consider an additional air
+conditioner as standby, the cooling capacity of air conditioners in the non
+high temperature season is very rich. Adaptive energy saving technology
+saves this part of redundant energy so that the average energy saving rate
+can reach about 20%. In this paper the application problems of air
+conditioner for telecommunication equipment room are discussed. The theories
+and core technology of adaptive energy saving are introduced. The main way
+of energy saving, statistics of practical application and the electricity
+saving rate obtained are also given.

@@ -1,0 +1,8 @@
+This paper addresses a typical humanoid problem, that of walking gaits.
+Creating a stable walking gait on a humanoid robot is a problem that is
+addressed by many roboticists worldwide. We want to focus on a similar issue
+that is often overlooked: recognition of different walking behaviours in
+humans and humanoid robots. We introduce a method that is able to recognise
+persons as well as their current walking behaviour based on accelerometer
+data. This is an important skill and prerequisite for all human-humanoid
+imitation and interaction tasks.

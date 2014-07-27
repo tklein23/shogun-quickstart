@@ -1,0 +1,17 @@
+It is well known that the graph invariant, ‘the Merrifield–Simmons index’
+is important one in structural chemistry. The connected acyclic graphs with
+maximal and minimal Merrifield–Simmons indices are determined by Prodinger
+and Tichy [H. Prodinger, R.F. Tichy, Fibonacci numbers of graphs, Fibonacci
+Quart. 20 (1982) 16–21]. The sharp upper and lower bounds for the
+Merrifield–Simmons indices of unicyclic graphs are characterized by Pedersen
+and Vestergaard [A.S. Pedersen, P.D. Vestergaard, The number of independent
+sets in unicyclic graphs, Discrete Appl. Math. 152 (2005) 246–256]. The
+sharp upper bound for the Merrifield–Simmons index of bicyclic graphs is
+obtained by Deng, Chen and Zhang [H. Deng, S. Chen, J. Zhang, The
+Merrifield–Simmons index in (n,n+1)-graphs, J. Math. Chem. 43 (1) (2008)
+75–91]. The sharp lower bound for the Merrifield–Simmons index of bicyclic
+graphs is determined by Jing and Li [W. Jing, S. Li, The number of
+independent sets in bicyclic graphs, Ars Combin, 2008 (in press)]. In this
+paper, we will consider the tricyclic graph, i.e., a connected graph with
+cyclomatic number 3. The tricyclic graph with n vertices having maximum
+Merrifield–Simmons index is determined.

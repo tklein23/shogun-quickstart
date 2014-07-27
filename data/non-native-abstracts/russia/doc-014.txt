@@ -1,0 +1,12 @@
+In this paper we suggest a new dynamical model of neuron excitability. It
+is based on the classical FitzHugh–Nagumo model in which we introduce the
+third variable for additional ionic current. By using the method of fast and
+slow motions we study the afterdepolarization, spontaneous secondary spiking
+and tonic spiking effects. We build regions in the parameter space that
+correspond to different dynamical regimes. The obtained results may be
+important for different problems of neuroscience, e.g. for the problem of
+working memory.Highlights► A dynamical mechanism of delayed
+afterdepolarization and secondary spiking is explained. ► Spontaneous
+spiking appears through the saddle-node bifurcation of periodic motions. ►
+Transition between the ADP and spontaneous spiking occurs through producing
+of finite number of secondary spikes.

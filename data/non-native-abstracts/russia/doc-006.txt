@@ -1,0 +1,17 @@
+The molecular ion is the simplest polyatomic and poly-electronic molecular
+system, and its spectrum constitutes an important benchmark for which
+precise answers can be obtained ab initio from the equations of quantum
+mechanics. Significant progress in the computation of the ro-vibrational
+spectrum of is discussed. A new, global potential energy surface (PES) based
+on ab initio points computed with an average accuracy of 0.01 cm(-1)
+relative to the non-relativistic limit has recently been constructed. An
+analytical representation of these points is provided, exhibiting a standard
+deviation of 0.097 cm(-1). Problems with earlier fits are discussed. The new
+PES is used for the computation of transition frequencies. Recently measured
+lines at visible wavelengths combined with previously determined infrared
+ro-vibrational data show that an accuracy of the order of 0.1 cm(-1) is
+achieved by these computations. In order to achieve this degree of accuracy,
+relativistic, adiabatic and non-adiabatic effects must be properly accounted
+for. The accuracy of these calculations facilitates the reassignment of some
+measured lines, further reducing the standard deviation between experiment
+and theory.

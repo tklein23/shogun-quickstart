@@ -1,0 +1,13 @@
+Recently, there is a strong interest in developing wireless sensor network
+(WSN) techniques and important applications for moving vehicles, to enable
+WSN communication between roadside and vehicles or between vehicles.
+Wireless vehicular sensor networks (VSNs) using all kinds of routing
+algorithms of low-energy efficiency has recently received considerable
+attention. Clustering algorithm has a significant impact on the operation of
+WSN. Effective clustering algorithm leads WSN to operate efficiently.
+Hierarchical clustering is a new clustering scheme in WSN. This study
+presents a novel vehicular clustering scheme integrating hierarchical
+clustering on the basis of classical routing algorithm. Simulation results
+show that the new scheme efficiently mitigates the hot spot problem in WSN
+and achieves much improvement in network lifetime and load balance compared
+to the old algorithm which is Direct, LEACH and DCHS.

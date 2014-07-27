@@ -1,0 +1,15 @@
+We investigate small-world networks from the point of view of their origin.
+While the characteristics of small-world networks are now fairly well
+understood, there is as yet no work on what drives the emergence of such a
+network architecture. In situations such as neural or transportation
+networks, where a physical distance between the nodes of the network exists,
+we study whether the small-world topology arises as a consequence of a
+tradeoff between maximal connectivity and minimal wiring. Using simulated
+annealing, we study the properties of a randomly rewired network as the
+relative tradeoff between wiring and connectivity is varied. When the
+network seeks to minimize wiring, a regular graph results. At the other
+extreme, when connectivity is maximized, a "random" network is obtained. In
+the intermediate regime, a small-world network is formed. However, unlike
+the model of Watts and Strogatz [Nature 393, 440 (1998)], we find an
+alternate route to small-world behavior through the formation of hubs, small
+clusters where one vertex is connected to a large number of neighbors.

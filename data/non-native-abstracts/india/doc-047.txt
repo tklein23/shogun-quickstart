@@ -1,0 +1,11 @@
+In this proposal, we describe a Smart Home Energy Management System (SHEMS)
+for effective home power management. This system, after gathering
+information about the various home appliances, monitors and controls their
+performance for the most efficient power consumption scenario. To aid this
+function, we also describe a PLC Power Controlled Outlet Module (PPCOM). A
+home server connected to the PPCOM network is proposed as part of a Star
+topology. The server is provided with required parameters of all devices on
+the home grid by microprocessors of each device, enabling it to reach
+decisions about their performance. Elementary tests & surveys indicate that
+our design can be implemented practically and does not require any radical
+changes in the existing infrastructure.

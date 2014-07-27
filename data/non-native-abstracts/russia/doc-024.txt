@@ -1,0 +1,10 @@
+We consider equilibrium problems for the logarithmic vector potential
+related to the asymptotics of the Hermite–Padé approximants. Solutions of
+such problems can be expressed by means of algebraic functions. The goal of
+this paper is to describe a procedure for determining the algebraic equation
+for this function in the case when the genus of this algebraic function is
+equal zero. Using the coefficients of the equation we compute the extremal
+cuts of the Riemann surfaces. These cuts are attractive sets for the poles
+of the Hermite–Padé approximants. We demonstrate the method by an example of
+the equilibrium problem related to a special system that is called the
+Angelesco system.

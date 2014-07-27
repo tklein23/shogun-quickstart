@@ -1,0 +1,8 @@
+We propose a new test for independence of error and covariate in a
+nonparametric regression model. The test statistic is based on a kernel
+estimator for the L2-distance between the conditional distribution and the
+unconditional distribution of the covariates. In contrast to tests so far
+available in literature, the test can be applied in the important case of
+multivariate covariates. It can also be adjusted for models with
+heteroscedastic variance. Asymptotic normality of the test statistic is
+shown. Simulation results and a real data example are presented.

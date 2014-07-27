@@ -1,0 +1,15 @@
+A biometric access control system based on identification of human face is
+presented. The system developed performs remote measurements of the
+necessary face features. Two different scenarios of the system behavior are
+implemented. The first one assumes the verification of personal data entered
+by visitor from console using keyboard or card reader. The system functions
+as an automatic checkpoint, that strictly controls access of different
+visitors. The other scenario makes it possible to identify visitors without
+any person identifier or pass. Only person biometrics are used to identify
+the visitor. The recognition system automatically finds necessary
+identification information preliminary stored in the database. Two
+laboratory models of recognition system were developed. The models are
+designed to use different information types and sources. In addition to
+stereoscopic images inputted to computer from cameras the models can use
+voice data and some person physical characteristics such as person's height,
+measured by imaging system.

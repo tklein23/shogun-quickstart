@@ -1,0 +1,26 @@
+Branchwidth and treewidth are connectivity parameters of graphs of high
+importance in algorithm design. By dynamic programming along the associated
+branch- or tree-decomposition one can solve most graph optimization problems
+in time linear in the graph size and exponential in the parameter. If one of
+these parameters is bounded on a class of graphs, then so is the other, but
+they can differ by a small constant factor and this difference can be
+crucial for the resulting runtime. In this paper we introduce semi-nice
+tree-decompositions and show that they combine the best of both branchwidth
+and treewidth. We first give simple algorithms to transform a given
+tree-decomposition or branch-decomposition into a semi-nice
+tree-decomposition. We then give two templates for dynamic programming along
+a semi-nice tree-decomposition, one for optimization problems over vertex
+subsets and another for optimization problems over edge subsets. We show
+that the resulting runtime will match or beat the runtimes achieved by doing
+dynamic programming directly on either a branch- or tree-decomposition. For
+example, given a graph G on n vertices with path-, tree- and
+branch-decompositions of width pw,tw and bw respectively, the Minimum
+Dominating Set problem on G is solved in time O(n2min{1.58pw,2tw,2.38bw}) by
+a single dynamic programming algorithm along a semi-nice tree-decomposition.
+On the applied side the immediate gain is that for each optimization problem
+one can achieve the benefits of both treewidth, branchwidth and pathwidth
+while developing and implementing only one dynamic programming algorithm. On
+the theoretical side the combination of the best properties of both
+branchwidth and treewidth in a single decomposition is a step towards a more
+general framework giving the fastest possible algorithms on tree-like
+graphs.

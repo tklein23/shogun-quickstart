@@ -1,0 +1,16 @@
+FAST TCP is a promising new transfer control protocol developed for
+high-speed long-latency networks, whose performance has previously only been
+studied for data traffic sent in one direction. In this study, the authors
+propose a mathematical model for bi-directional connections using the FAST
+TCP protocol, which captures the asymmetric bandwidth dynamics in duplex
+dumbbell networks, prevalent in ADSL, satellite and other high-speed
+technologies. Using this model, the authors obtain a powerful result that
+the queue delays observed by opposite FAST TCP flows only have a time
+difference in a dumbbell network. Furthermore, the authors establish the
+conditions under which the bi-directional FAST TCP flows achieve stability,
+and on this basis the throughput rates of the forward and backward flows at
+steady-state are deduced. The authors find that, in the case of bandwidth
+asymmetry and one flow in each direction, in equilibrium the throughput of
+the bi-directional FAST TCP flows can only achieve the smaller link capacity
+of the duplex links, and the link with larger capacity is not fully
+occupied. These theoretical findings are corroborated by NS2 simulations.

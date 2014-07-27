@@ -1,0 +1,11 @@
+Rietveld’s whole powder profile fitting method based on crystal structure
+refinement is applied to extract the microstructure information of several
+polymorphic TiO2 phases grown simultaneously during high energy vibratory
+ball milling of anatase phase. Warren–Averbach’s method of X-ray line
+profile analysis is also made for comparison of above results. The X-ray
+powder patterns of four TiO2 phases along with α-Al2O3 (contamination) are
+simulated simultaneously for the first time to fit the experimental X-ray
+powder patterns of multiphase materials. The structural details of
+monoclinic TiO2 (B) phase are also reported first time in this paper. The
+advantages of the present method of analysis over the other methods of X-ray
+line profile analysis are discussed in details.

@@ -1,0 +1,13 @@
+Digital works are considered as research focus in most existing digital
+copyright protection schemes. But the customers not the digital works have
+active aggressiveness. That is to say the customers are the fundamental
+reason of copyright protection problem. So customers should be monitored
+moreover. The existing identity authentication could verify the legitimacy
+of customers. But it can not distinguish the legitimacy of customer
+operations. In this paper, we propose an effective behavior authentication
+scheme for customers based on fragile watermark and multiple robust zero
+watermark technology. After using a digital work, the scheme can decide
+whether the digital work is used beyond the usage authority and determine
+the customer who exceeded authority further. It is known that the scheme
+could be applied in most situations by validity analysis. The experiment
+results also show that the scheme is executed efficiently and correctly.

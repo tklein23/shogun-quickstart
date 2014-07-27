@@ -1,0 +1,10 @@
+Anonymity is the property of keeping secret the identity of user accessing a
+certain resource or service, and it is a main approach to protect userpsilas
+privacy. At present, many solutions of anonymity have been proposed, but
+they seldom concern how to evaluate the security of an anonymity mechanism.
+As userpsilas actions are often dynamic and random in the network, this
+paper proposes a novel conceptual anonymity analysis model based on the
+fuzzy relation theory in fuzzy mathematics. Theoretic analysis shows that
+the proposed model can effectively analyze the security of existing
+anonymity systems in respect of the type of mobility, and can help design a
+new anonymity protection scheme.

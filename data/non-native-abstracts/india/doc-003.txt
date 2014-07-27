@@ -1,0 +1,7 @@
+Fourier analyses of both multiple and single-order reflections in FCC
+(Ag-4.5 at.% Ge) alloy films (68 to 238 nm thick) indicated appreciable
+coherent domain size and lattice strain effects with slight lattice
+contraction and significant compressive long-range residual stress. The
+study further reveals large concentrations of growth twin stacking faults
+but none that were intrinsic or extrinsic. The films showed a high
+dislocation density and a strong preferential texture along (111).

@@ -1,0 +1,19 @@
+We consider a simple example of a dynamical billiard consisting of a mass
+point moving in a circle under the influence of a homogeneous gravitational
+field. The point reflects by the mirror elastic law when it encounters the
+circular boundary. The problem is integrable between one collision and
+another, and also when the particle moves on the bounding circle. This makes
+it possible to build the conditions of existence and stability (in a linear
+and, at times, in a nonlinear sense, too) of the families of basic periodic
+trajectories determining the phase space topology for a fixed energy level.
+The numerical implementation of the Poincaré mapping offers a means of
+describing the phase pictures with regular and chaotic regions in more
+detail as well as their evolution as the energy changes. In a weak
+gravitational field, numerical experiments reveal only periodic trajectories
+that are symmetric about the vertical diameter of the circle. An analytic
+proof is given that the imposition of a weak gravitational field causes the
+disappearance of nonsymmetric two-, three-, four-, and six-link
+trajectories. The phenomenon arises from the superposition of two factors:
+the gravitation and the perfect symmetry of the circular billiard. We also
+consider motion evolution in the special case of the perfectly inelastic
+reflection law.

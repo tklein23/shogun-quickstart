@@ -1,0 +1,18 @@
+For a rigorous assessment of the precise amount of sample loaded, for
+quantitation purposes, different sample injection systems were evaluated
+with two commercially available units, Waters Quanta 4000 and Beckman P/ACE
+2100. In the first system, sample introduction by hydrostatic means (i.e.,
+placing the sample vial at some height, usually 10.1 cm, above the other
+capillary end) was evaluated. It was found that in this system there is a
+constant positive bias, i.e. the amount of sample loaded lies on a curve
+parallel and above the theoretically predicted loading curve. However, the
+excess of mass loaded was constant along the injection times explored
+(covering from 5 to 35 s) and, for a 75 microns capillary, was found to be
+of the order of +6 nL (above the expected injected value). Thus it is easy
+to correct for this sample bias. In the electrokinetic mode, a very good
+correlation between expected and predicted sample loads was obtained for
+both units. In the pressure system (by positive pressure from a nitrogen
+tank, Beckman unit) a substantial discrepancy was found between experimental
+and predicted values (13.5% overload). Since the manufacturer claims a
+constant pressure of 0.5 psi, i.e. 3447.5 Pa, it would appear that the
+injection pressure is higher than the given value.(

@@ -1,0 +1,9 @@
+More and more companies are going to use Internet for their job procurement
+process, i.e. to search for job seekers and publish open positions. However,
+common search techniques based on classical key-word search fail to match
+job seekers with job offers since particular (over-constraint) queries
+return no answers and search engines are un-able to semantically relax such
+queries. In this paper we briefly describe an approach where explicitly
+defined rewriting rules are used to refor-mulate the query in a controlled
+way and explain the architecture of our job portal extension giving an
+impression about the relaxation process.

@@ -1,0 +1,13 @@
+The concept of a pairwise loss function arises in learning situations
+where the aim is to model pairwise interactions within a domain.
+Formulations for learning problems such as metric learning, kernel
+learning and bipartite ranking typically utilize such loss functions to
+capture the performance of a learned hypothesis.
+
+The use of such loss functions presents unique algorithmic and learning
+theoretic challenges. In the past this has encouraged a lot of research in
+the use of such loss functions in the batch setting. In this work we
+investigate learning with pairwise loss functions in the online setting in
+an effort to develop scalable learning formulations. This is joint work
+with Bharath Sriperumbudur, U. Cambridge, Prateek Jain, MSR India and
+Harish Karnick, IIT Kanpur.

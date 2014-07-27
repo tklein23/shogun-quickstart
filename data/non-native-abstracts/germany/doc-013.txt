@@ -1,0 +1,10 @@
+In this paper, we present a framework that allows us to orchestrate web
+services such that the web services involved in this orchestration interact
+properly. To achieve this, we predefine service interfaces and certain
+routing constructs. Furthermore, we define a number of rules to
+incrementally compute the price of such a properly interacting orchestration
+(i.e. a web service) from the price of its web services. The fact that a web
+service gets only payed after its service is delivered (no-cure-no-pay) is
+reflected by considering a probability of success. To determine a safe price
+that includes the risk a web service takes, we consider the variance of
+costs.

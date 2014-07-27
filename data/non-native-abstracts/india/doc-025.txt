@@ -1,0 +1,12 @@
+We propose a new abstract domain for static analysis of executable code.
+Concrete states are abstracted using Circular Linear Progressions (CLPs).
+CLPs model computations using a finite word length as is seen in any real
+life processor. The finite abstraction allows handling over-flow scenarios
+in a natural and straight-forward manner. Abstract transfer functions have
+been defined for a wide range of operations which makes this domain easily
+applicable for analyzing code for a wide range of ISAs. CLPs combine the
+scalability of interval domains with the discreteness of linear congruence
+domains. We also present a novel, lightweight method to track linear
+equality relations between static objects that is used by the analysis to
+improve precision. The analysis is efficient, the total space and time
+overhead being quadratic in the number of static objects being tracked.

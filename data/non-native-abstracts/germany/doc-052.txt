@@ -1,0 +1,10 @@
+Since manual labelling of huge data sets is costly and time-consuming, we
+pro-pose a framework for iterative confidence-based self-learning of
+classifiers which autonomously extends its knowledge gained based on a small
+amount of initial, man-ually labelled training samples towards increasingly
+different representatives of the regarded pattern classes. During each
+iteration, the labels of newly selected samples are determined and the
+samples are added to the training set, subsequently. The cru-cial step is
+the selection of the samples which are used for re-training the classifier
+during each iteration. For this purpose, we rely as a new approach on the
+concept of confidence bands known from the field of statistics.

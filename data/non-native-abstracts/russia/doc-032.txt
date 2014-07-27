@@ -1,0 +1,16 @@
+Some inequalities for the Boltzmann collision integral are proved. These
+inequalities can be considered as a generalization
+of the well-known Povzner inequality. The inequalities are used to obtain
+estimates of moments of the solution to the spatially
+homogeneous Boltzmann equation for a wide class of intermolecular forces. We
+obtain simple necessary and sufficient conditions
+(on the potential) for the uniform boundedness of all moments. For
+potentials with compact support the following statement
+is proved: if all moments of the initial distribution function are bounded
+by the corresponding moments of the MaxwellianA exp(−Bv
+2), then all moments of the solution are bounded by the corresponding
+moments of the other MaxwellianA
+1 exp[−B
+1(t)v
+2] for anyt > 0; moreoverB(t) = const for hard spheres. An estimate for a
+collision frequency is also obtained.

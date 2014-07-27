@@ -1,0 +1,17 @@
+According to the high-dimensional sparse features of the storage of the
+textual document, and defects existing in the clustering methods which have
+already studied by now and some other problems, an effective text clustering
+approach (short for TGSOM-FS-FKM) based on tree-structured growing
+self-organizing maps (TGSOM) and fuzzy k-means (FKM) is proposed. It firstly
+makes preprocess of texts, and filter the majority of noisy words by using
+unsupervised feature selection method. Then it used TGSOM to execute the
+first clustering to get the rough classification of texts, and to get the
+initial clustering number and each textpsilas category. And then introduced
+LSA theory to improve the precision of clustering and reduce the dimension
+of feature vector. After that it used TGSOM to execute the second clustering
+to get the moreprecise clustering result, and used supervised feature
+selection method to select feature items. Finally, it used FKM to cluster
+the result set. In the experiment, it remained the same number of feature
+items.Experimental results indicate that TGSOM-FS-FKM clustering excels to
+other clustering method such as DSOM-FS-FCM, and the precision is better
+than DSOM-FCM, DFKCN and FDMFC clustering.

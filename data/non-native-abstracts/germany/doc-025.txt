@@ -1,0 +1,15 @@
+While executing business processes, a variety of events is produced that is
+valuable for getting insights about the process execution. Specifically,
+these events can be processed by Complex Event Processing (CEP) engines to
+deliver a base for business process monitoring. Mobile, flexible, and
+distributed business processes challenge existing process monitoring
+techniques, especially if process execution is partially done manually.
+Thus, it is not trivial to decide where the required business process
+execution information can be found, how this information can be extracted,
+and to which point in the process it belongs to. Tackling these challenges,
+we present a model-driven approach to support the automated creation of
+(CEP) queries for process monitoring. For this purpose, we decompose a
+process model that includes monitoring information into its structural
+components. Those are transformed to (CEP) queries to monitor business
+process execution based on events. For illustration, we show an
+implementation for BPMN and describe possible applications.

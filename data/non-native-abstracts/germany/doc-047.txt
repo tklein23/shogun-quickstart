@@ -1,0 +1,14 @@
+Wireless networks have long ago surpassed their infancy, becoming eligible
+for sophisticated applications beyond common Web browsing. As the volume of
+data managed by such applications relentlessly grows over time, the
+underlying network infrastructure has to keep up with the escalating demand.
+The multidimensional data modeling is extensively used in data warehouses,
+in order to facilitate decision making. Since ubiquitous access has become a
+critical success factor in most enterprises, wireless networks are expected
+to host data warehousing applications. In this paper, we propose a hybrid
+scheduling algorithm, explicitly suited for on demand delivery of aggregated
+data in wireless networks. By selecting between highly compressed data
+structures, the size of data transmitted into the network is minimized,
+however without any loss of semantic information. In this way, not only
+users posing multidimensional queries experience reduced access time and
+device energy consumption, but generated traffic is minimized too.

@@ -1,0 +1,10 @@
+In this paper we study the chaotic behaviour of the heat semigroup generated
+by the Dunkl-Laplacian on weighted $ L^p$ spaces. In the case of the heat
+semigroup associated to the standard Laplacian we obtain a complete picture
+on
+the spaces $ L^p(\R^n, (\varphi_{i\rho}(x))^2 dx) $ where $ \varphi_{i\rho}
+$
+is the Euclidean spherical function. The behaviour is very similar to the
+case
+of the Laplace-Beltrami operator on non-compact Riemannian symmetric spaces
+studied by Pramanik and Sarkar.

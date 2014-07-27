@@ -1,0 +1,12 @@
+In protein-protein interaction networks, proteins combine into
+macromolecular complexes to execute essential functions in the cells, such
+as replication, transcription, protein transport. To solve the problem of
+detecting protein complexes from protein interaction networks, we used
+relevant graph and irrelevant graph to represent the relation of connection
+between a node and a core graph. We defined a variable Relevancy to
+represent whether a node had a dense or loose connection to a core graph.
+Then we proposed the Relevancy Judgment algorithm to detecting protein
+complexes from protein interaction networks. Our algorithm decided whether a
+node belonged to a protein complex through judging the relevancy between
+core graph and nodes out of core graph. Experiment results show that our
+algorithm has an excellent performance in both accuracy and hit rate.

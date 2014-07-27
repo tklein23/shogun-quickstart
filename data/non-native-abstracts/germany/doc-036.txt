@@ -1,0 +1,22 @@
+Haplogrouping refers to the classification of (partial) mitochondrial DNA
+(mtDNA) sequences into haplogroups using the current knowledge of the
+worldwide mtDNA phylogeny. Haplogroup assignment of mtDNA control-region
+sequences assists in the focused comparison with closely related complete
+mtDNA sequences and thus serves two main goals in forensic genetics: first
+is the a posteriori quality analysis of sequencing results and second is the
+prediction of relevant coding-region sites for confirmation or further
+refinement of haplogroup status. The latter may be important in forensic
+casework where discrimination power needs to be as high as possible.
+However, most articles published in forensic genetics perform haplogrouping
+only in a rudimentary or incorrect way. The present study features PhyloTree
+as the key tool for assigning control-region sequences to haplogroups and
+elaborates on additional Web-based searches for finding near-matches with
+complete mtDNA genomes in the databases. In contrast, none of the automated
+haplogrouping tools available can yet compete with manual haplogrouping
+using PhyloTree plus additional Web-based searches, especially when
+confronted with artificial recombinants still present in forensic mtDNA
+datasets. We review and classify the various attempts at haplogrouping by
+using a multiplex approach or relying on automated haplogrouping.
+Furthermore, we re-examine a few articles in forensic journals providing
+mtDNA population data where appropriate haplogrouping following PhyloTree
+immediately highlights several kinds of sequence errors.

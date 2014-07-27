@@ -1,0 +1,9 @@
+Studies of N.N. Bogolubov, S. Chapman and D. Enskog permit to formulate a
+regular way for the construction of hydrodynamic equations in the
+postgalilean approximation of relativistic theory. The Boltzmann equation
+obtained from the BBGKY-hierarchy with regard to the retardation effects
+lies at the basis of this construction. The hydrodynamic equations derived
+in this way are distinguished from the results, obtained by de Groot et al.,
+where the retardation of the interaction is eliminated. In the present work
+the construction of the hydrodynamic equations is developed using both
+Lagrange and Hamilton variables for particles of arbitrary tensor valency.

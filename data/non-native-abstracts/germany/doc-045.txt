@@ -1,0 +1,14 @@
+As mobile ad hoc networks (MANETs) become ever more popular, it also becomes
+more and more interesting to build distributed network applications (e.g.
+data storage, etc.) that have been successfully built using DHTs on the
+Internet in such MANETs. For this purpose, DHT substrates especially
+designed for the use in MANETs have been recently proposed. In this paper,
+we demonstrate that such a DHT substrate (MADPastry) can be efficiently used
+to not only provide indirect, key-based overlay routing, but also
+conventional direct unicasting. Our simulation results show that DHT-based
+unicasting can markedly outperform conventional reactive ad hoc routing
+(AODV) as well as proactive ad hoc routing (OLSR). Therefore, MANET nodes
+that are already running a DHT substrate for application purposes will no
+longer have to maintain a separate ad hoc routing protocol in parallel but
+can use their DHT substrate for conventional point-to-point ad hoc routing
+as well.

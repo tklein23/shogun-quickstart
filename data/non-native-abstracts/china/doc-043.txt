@@ -1,0 +1,10 @@
+Neural network has been widely used in the field of data mining, but the
+traditional neural network has some defects, such as convergence in the
+local optimal solution, learning a long time, etc. The genetic algorithm is
+a global optimization search algorithm, and can effectively overcome these
+shortcomings. Therefore, based on the comparative analysis of the standard
+BP algorithm and genetic algorithms, the hybrid algorithm G-BP algorithm
+that this paper presents not only retains the original merits of the neural
+network, but also overcomes these shortcomings. Through specific application
+it has been proved that the algorithm is practical in data mining, and is a
+good method of data mining.

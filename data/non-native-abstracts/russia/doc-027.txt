@@ -1,0 +1,7 @@
+The renormalization-group approach is applied to derive an exact solution to
+the self-consistent Vlasov kinetic equations for plasma particles in the
+quasineutral approximation. The solutions obtained describe
+three-dimensional adiabatic expansion of a plasma bunch with arbitrary
+initial velocity distributions of the electrons and ions. The solution found
+is illustrated by the examples on ion acceleration in a plasma with hot
+electrons and in a plasma with light impurity ions.

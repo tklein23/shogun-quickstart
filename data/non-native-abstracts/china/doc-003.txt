@@ -1,0 +1,15 @@
+Links of an end-to-end long lived TCP connection may provide bandwidth with
+significant variance. In this work, we model and study the effects of
+variable bandwidth on TCP throughput, taking into account various
+influencing factors such as random loss of links, buffer size and
+characteristics of the variable bandwidth in the bottleneck link. Result
+shows that the variance of bandwidth can severely deteriorate TCP
+throughput, even making it less than one thirds of the one without bandwidth
+variance in many cases and arbitrarily low if situations are bad enough, and
+that under the circumstance of variable bandwidth, a buffer size larger than
+the traditional recommended bandwidth delay product can greatly improve the
+throughput. Under the circumstance of variable bandwidth, our model can
+accurately model the TCP throughput, with an average error around 5%, and a
+maximum error less than 15%, while traditional formula based TCP throughput
+prediction can be significantly inaccurate, even with an error larger than
+200%.

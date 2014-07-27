@@ -1,0 +1,18 @@
+The recognition of object categories in 3D scenes is still a challenging
+problem in computer vision. Many state of the art approaches use Implicit
+Shape Models, as addressed in [8] and [14], to learn shapes of object
+categories and a probabilistic Hough Space Voting for the detection of
+instances of the learned category. In this paper we present a novel 3D Hough
+Space Voting approach for recognizing object categories, learned from
+artificial 3D models, in 3D scenes. The proposed method uses rays instead of
+points to vote for object reference points. The usage of ray voting allows a
+clustering of votes, showing in similar directions, to a single vote with an
+appropriate vote weight. The main advantage for the Implicit Shape Model is
+that it can be trained with an unlimited amount of training data, while
+keeping the upper bound of computation effort constant. In addition, it is
+also able to abstract from the model sizes which is very helpful when
+training with artificial models taken from different sources and modelled in
+different scales. We validate our approach in two tasks: an object
+categorization is performed on a standard 3D dataset of artificial models
+and a recognition of furniture categories is evaluated on a dataset of
+captured indoor room scenes.

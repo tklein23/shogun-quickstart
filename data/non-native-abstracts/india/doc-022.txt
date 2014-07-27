@@ -1,0 +1,11 @@
+Gaussian processes (GPs) are promising Bayesian methods for classification
+and regression problems. Design of a GP classifier and making predictions
+using it is, however, computationally demanding, especially when the
+training set size is large. Sparse GP classifiers are known to overcome this
+limitation. In this letter, we propose and study a validation-based method
+for sparse GP classifier design. The proposed method uses a negative log
+predictive (NLP) loss measure, which is easy to compute for GP models. We
+use this measure for both basis vector selection and hyperparameter
+adaptation. The experimental results on several real-world benchmark data
+sets show better or comparable generalization performance over existing
+methods.

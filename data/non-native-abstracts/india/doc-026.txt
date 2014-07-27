@@ -1,0 +1,18 @@
+In recent times, there has been an exponential rise in the number of protein
+structures in databases e.g. PDB. So, design of fast algorithms capable of
+querying such databases is becoming an increasingly important research
+issue. This paper reports an algorithm, motivated from spectral graph
+matching techniques, for retrieving protein structures similar to a query
+structure from a large protein structure database. Each protein structure is
+specified by the 3D coordinates of residues of the protein. The algorithm is
+based on a novel characterization of the residues, called projections,
+leading to a similarity measure between the residues of the two proteins.
+This measure is exploited to efficiently compute the optimal equivalences.
+RESULTS: Experimental results show that, the current algorithm outperforms
+the state of the art on benchmark datasets in terms of speed without losing
+accuracy. Search results on SCOP 95% nonredundant database, for fold
+similarity with 5 proteins from different SCOP classes show that the current
+method performs competitively with the standard algorithm CE. The algorithm
+is also capable of detecting non-topological similarities between two
+proteins which is not possible with most of the state of the art tools like
+Dali.

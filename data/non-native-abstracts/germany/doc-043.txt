@@ -1,0 +1,13 @@
+Name services for mobile ad hoc networks are essential to discover and bind
+resources given by their name or URI to a specific network address. As there
+is no fixed infrastructure available in MANETs, nodes cannot rely on any
+DNS-like system as is taken for granted in the Internet. To keep up with the
+dynamicity of MANETs, a name service needs to be flexible and scalable. For
+this purpose, we propose MAPNaS (mobile ad-hoc peer-to-peer name service), a
+lightweight and locality-aware peer-to-peer based name service. MAPNaS runs
+on top of MADPastry (T. Zhan and J. Schiller, June 2005), a general-purpose
+DHT substrate especially designed for MANETs. Through simulation we compare
+the performance of MAPNaS - both in terms of the success rate and overall
+network traffic - against an unstructured, broadcast-based reference
+approach. We thereby demonstrate how to efficiently build a peer-to-peer
+based name service in mobile ad hoc networks

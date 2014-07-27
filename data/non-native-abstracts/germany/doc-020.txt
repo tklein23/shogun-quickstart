@@ -1,0 +1,5 @@
+We broaden the theoretical basis for generating scenario trees in
+multi-stage stochastic programming based on stability analysis. Numerical
+experience for constructing trees of demand and price scenarios in
+electricity portfolio management of a municipal power utility is also
+provided.

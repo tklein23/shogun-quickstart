@@ -1,0 +1,23 @@
+The reliable automatic visual recognition of indoor scenes with complex
+object constellations using only sensor data is a nontrivial problem. In
+order to improve the construction of an accurate semantic 3D model of an
+indoor scene, we exploit human-produced verbal descriptions of the relative
+location of pairs of objects. This requires the ability to deal with
+different spatial reference frames (RF) that humans use interchangeably. In
+German, both the intrinsic and relative RF are used frequently, which often
+leads to ambiguities in referential communication. We assume that there are
+certain regularities that help in specific contexts. In a first experiment,
+we investigated how speakers of German describe spatial relationships
+between different pieces of furniture. This gave us important information
+about the distribution of the RFs used for furniture-predicate combinations,
+and by implication also about the preferred spatial predicate. The results
+of this experiment are compiled into a computational model that extracts
+partial orderings of spatial arrangements between furniture items from
+verbal descriptions. In the implemented system, the visual scene is
+initially scanned by a 3D camera system. From the 3D point cloud, we extract
+point clusters that suggest the presence of certain furniture objects. We
+then integrate the partial orderings extracted from the verbal utterances
+incrementally and cumulatively with the estimated probabilities about the
+identity and location of objects in the scene, and also estimate the
+probable orientation of the objects. This allows the system to significantly
+improve both the accuracy and richness of its visual scene representation.

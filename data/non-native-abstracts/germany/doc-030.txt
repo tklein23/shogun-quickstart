@@ -1,0 +1,5 @@
+General principles for the design of user interfaces for systems software
+are discussed, which take into account the constraints
+imposed by special user groups like visually impaired or blind persons and
+by special displays like haptic displays or very
+small screens.

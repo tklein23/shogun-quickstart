@@ -1,0 +1,15 @@
+Viruses that attack intelligent mobile phones are emerging as a new front in
+the fight against various computer viruses. In order to reveal the spreading
+rule of mobile phone virus, thus providing theory basis for preventing
+mobile phone virus from wide spreading, we consider the characteristics of
+mobile phone communication network, and then focus mainly on the short
+message network. Based on this specific network, we proposed an epidemic
+model of mobile phone virus based on the efficiency of immunization. In this
+epidemic model, we listed three basic statuses of mobile phone nodes, as
+well as the transition rules betweens these statuses. Through analyzing the
+epidemic model and the simulation experiment, we found that the epidemic
+model can forecast the development tendency of the node status. We discussed
+the influence of the efficiency of immunization, and then made a conclusion
+that mobile phone virus can not be removed completely. According to this
+model, we can take some measures to control the spreading of mobile phone
+virus.

@@ -1,0 +1,14 @@
+With the improvement of the P2P network traffic proportion accounted for the
+total flow, P2P networks actually had become an important component of next
+generation Internet. In P2P network, the existence of Hubs lead to the
+reducing of the ability of anti-coordinated attack in entire system, and it
+makes the system become awfully fragile. In this paper, aims to the current
+phenomenon of the Hubs in P2P network, further studies were conducted. Based
+on the ideas of the hierarchical processing of the predecessors this paper
+proposes a modified method based on hierarchical processing, it avoids the
+conformation of Hubs through optimizing the network topology, reinforcing
+mechanism is also introduced. The simulations results validate that this
+method can effectively control the conformation of Hubs, enhance the ability
+of anti-coordinated attack of P2P network, so it effectively enhances the
+robustness of the network, and play a role in load balance, improve the
+utilization of the system.

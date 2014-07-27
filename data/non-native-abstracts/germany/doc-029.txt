@@ -1,0 +1,8 @@
+ This paper focuses on the real-world use of cloud-based analytics for
+supporting medication track-and-trace and monitoring safety and quality in
+the pharmaceutical supply chain. The paper describes a track-and-trace
+system developed by German start-up XQS-Service GmbH and adopted by
+manufacturers, wholesalers, pharmacies and clinics in Germany. The paper
+also discusses the benefits of using in-memory computing to process large
+amounts of big data to support efficient and effective medication
+track-and-trace.

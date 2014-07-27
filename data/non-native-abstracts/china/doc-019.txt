@@ -1,0 +1,13 @@
+Free-riding is a grave threat against the existence and efficient operation
+of peer-to-peer networks. This study proposes a rank-based fair incentive
+mechanism to restrain free-riding and solve the problem of the tragedy of
+the commons. In this mechanism, each user has a rank according to its
+utility value and it can just visit the corresponding rating files with its
+rank in the system. The utility function in this study takes the absolute
+contribution value and the physical performance into account for fairness
+and their values are calculated by the analytic hierarchy process. Besides,
+a pyramidal rank structure is constructed in this mechanism, and the
+computation formula for the node's transfer in each layer is established. In
+addition, the four defects in other restrain mechanisms are resolved in this
+incentive mechanism. The simulations in three aspects have verified that
+this mechanism is effective and practical.

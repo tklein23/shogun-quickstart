@@ -1,0 +1,28 @@
+Given the large energy required for its electronic excitation, the most
+important properties of the water molecule are governed by its ground
+potential energy surface (PES). Novel experiments are now able to probe this
+surface over a very extended energy range, requiring new theoretical
+procedures for their interpretation. As part of this study, a new, accurate,
+global spectroscopic-quality PES and a new, accurate, global dipole moment
+surface are developed. They are used for the computation of the
+high-resolution spectrum of water up to the first dissociation limit and
+beyond as well as for the determination of Stark coefficients for high-lying
+states. The water PES has been determined by combined ab initio and
+semi-empirical studies. As a first step, a very accurate, global, ab initio
+PES was determined using the all-electron, internally contracted
+multi-reference configuration interaction technique together with a large
+Gaussian basis set. Scalar relativistic energy corrections are also
+determined in order to move the energy determinations close to the
+relativistic complete basis set full configuration interaction limit. The
+electronic energies were computed for a set of about 2500 geometries,
+covering carefully selected configurations from equilibrium up to
+dissociation. Nuclear motion computations using this PES reproduce the
+observed energy levels up to 39 000 cm(-1) with an accuracy of better than
+10 cm(-1). Line positions and widths of resonant states above dissociation
+show an agreement with experiment of about 50 cm(-1). An improved
+semi-empirical PES is produced by fitting the ab initio PES to accurate
+experimental data, resulting in greatly improved accuracy, with a maximum
+deviation of about 1 cm(-1) for all vibrational band origins. Theoretical
+results based on this semi-empirical surface are compared with experimental
+data for energies starting at 27 000 cm(-1), going all the way up to
+dissociation at about 41 000 cm(-1) and a few hundred wavenumbers beyond it.

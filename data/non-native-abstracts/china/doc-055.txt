@@ -1,0 +1,10 @@
+In wireless sensor networks, the network state beacon exchange rate is vital
+to determine the quality of service (QoS) performance of network state. It
+is important to schedule this parameter adaptively due to the dynamic nature
+of the networks. In this paper, an adaptive self-control model for wireless
+sensor (ASMW) is presented which model the whole wireless networks as a
+closed-loop system. The model is independent of the precision of the model
+parameters but operates adaptively. The simulation results show that the
+ASMW model is able to improve the performance of wireless networks
+effectively in adjusting the value of the beacon exchange rate to the
+reference value and uncomplicated to be implied in hardware.

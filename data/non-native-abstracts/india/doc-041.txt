@@ -1,0 +1,17 @@
+Titanium–boron–nitrogen (Ti–B–N) films were deposited by DC reactive
+magnetron sputtering using single titanium diboride (TiB2) target in argon,
+argon–nitrogen mixtures and pure nitrogen gas. The effects of nitrogen
+incorporation on the microstructure and mechanical properties of the
+deposited films were investigated. The films were characterized by X-ray
+diffraction, atomic force microscope, scanning electron microscope, and
+X-ray-photoelectron spectroscopy. Under pure argon the films showed the
+formation of TiB2. The films deposited in Ar–N2 mixture showed a transition
+from a hexagonal P6/mmm structure of TiB2 to the cubic (Fm3m) one of TiN and
+then again to hexagonal P6/mmm structure of TiB2 with decreasing nitrogen
+partial pressure. TiN was the major crystalline phase for the films
+deposited in pure nitrogen gas. Mechanical properties of the films were
+evaluated by nanoindentation. The hardness varied from 45 GPa for pure TiB2
+films to 11.15 GPa for Ti–B–N films. The energy of indentation analysis from
+the load–depth curves, % elastic recovery (%Er) and plots of H3/E2, where H
+is hardness and E is elastic modulus, at different indentation depths has
+been used to study the Ti–B–N film deformation process.

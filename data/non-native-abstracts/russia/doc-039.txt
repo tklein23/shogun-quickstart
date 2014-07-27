@@ -1,0 +1,7 @@
+We have calculated the P matrix for NN states with definite values of the
+orbital angular momentum; Â¹Sâ, Â¹Pâ, Â³Pâ, Â³Pâ, Â¹Dâ, and Â³Dâ.
+The positions of the P-matrix poles, obtained from a phase-shift analysis
+with inelastic channels taken into account, are compared with bag-model
+predictions for the masses of six-quark states. We discuss the possibility
+of using the energy dependence of the P matrix for determining the radius of
+the six-quark bag.

@@ -1,0 +1,11 @@
+In a Nature paper of 2010, the concern was raised that intra-individual
+mtDNA variation may be more pronounced than previously believed, in that
+heteroplasmies are common and vary markedly from tissue to tissue. This
+claim taken at face value would have considerable impact on forensic
+casework. It turns out however that the employed technology detected the
+germ-line variation relative to the reference sequence only incompletely: on
+average at least five mutations were missed per sample, as an in silico
+reassessment of the data reveals. Before one can really set out to access to
+entire mtDNA genome data with relative ease for forensic purposes, one needs
+careful calibration studies under strict forensic conditions-or might have
+to wait for another generation.

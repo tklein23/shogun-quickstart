@@ -1,0 +1,8 @@
+In this paper, we evaluate the performance of New- reno analytically by
+explicitly modeling its slow-start, congestion avoidance, fast retransmit,
+fast recovery and retransmission timeout mechanisms. Two packet loss models,
+bursty and independent, are adopted in our study. The accuracy of our
+proposed New-reno model is verified by simulations. The performance of
+New-reno is then compared with Sack using the derived analytical models. We
+show that New-reno outperforms Sack when the round trip time is short and
+the bursty loss event probability is low.

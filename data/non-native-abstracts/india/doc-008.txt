@@ -1,0 +1,22 @@
+The aim of this manuscript is to study a performance of quantum wire
+infrared photodetectors (QRIPs) in the case of impinging by infrared (IR)
+radiations. Photocurrent will be induced as a result of these IR radiations.
+Although the analytical solution of the QRIPs is not trivial work, exact
+solutions are obtained for each of photocurrent and its corresponding
+figure-of-merit, responsivity. The main concern is to discuss the influence
+of QRIPs parameters on the characteristics of photocurrent. The QRIPs
+parameters are average quantum wire density, the transverse and lateral
+size, operating temperature, and the number of quantum wire layers.
+Moreover, comparison study with the quantum well (dot) infrared
+photodetectors (QWIPs and QDIPs, respectively) is discussed. From the
+numerical results, one can notice that the QRIPs give gradually increasing
+photocurrent. While in another case, QDIPS, illustrates rapidly increasing
+values of the photocurrent within all the period of photocurrent. Although
+the photocurrent is smaller than its analogous QDIPs at the initial values
+of biasing voltage, the QRIPs photocurrent is controllable and more
+sensitive to the changing of device parameters. The main strength of the
+QRIPs is that the induced photocurrent is larger than dark current by a
+factor ranged from more than thousands, at low temperature, to ten at high
+temperature. So, the derived QRIPs responsivity gives actual value of the IR
+sensitivity. By utilizing QRIPs array, the obtained responsivity will be
+suitable for IR detections.

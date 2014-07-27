@@ -1,0 +1,12 @@
+The performance of a soccer robot is highly dependent on its motion ability.
+The kicking motion is one of the most important motions in a soccer game.
+However, automatic, full body motion generation for humanoid robots presents
+a formidable computational challenge. At the current state the most common
+approaches of implementing this motion are based on key frame technique.
+Such solutions are inflexible, i.e., in order to adjust the aimed direction
+of the kick the robot has to walk around the ball. The adjustment costs a
+lot of time especially if some precise adjustments have to be done, e.g.,
+for a penalty kick. In this paper we present an approach for adaptive
+control of the motions. We implemented our approach in order to solve the
+task of kicking the ball on a humanoid robot Nao. The approach was tested
+both in simulation and on a real robot.

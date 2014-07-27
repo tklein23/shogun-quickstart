@@ -1,0 +1,7 @@
+An iterative gradient descent method is applied to solve an inverse
+coefficient heat conduction problem with overdetermined
+boundary conditions. Theoretical estimates are derived showing how the
+target functional varies with varying the coefficient.
+These estimates are used to construct an approximation for a target
+functional gradient. In numerical experiments, iteration
+convergence rates are compared for different descent parameters.

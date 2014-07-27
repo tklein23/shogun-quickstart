@@ -1,0 +1,17 @@
+We refine a result concerning singular matrix pencils and the Wong
+sequences. In our
+recent paper [T. Berger and S. Trenn, SIAM J. Matrix Anal. Appl., 33 (2012),
+pp. 336–368] we have
+shown that the Wong sequences are sufficient to obtain a quasi-Kronecker
+form. However, we applied
+the Wong sequences again on the regular part to decouple the regular matrix
+pencil corresponding to
+the finite and infinite eigenvalues. The current paper is an addition to [T.
+Berger and S. Trenn, SIAM
+J. Matrix Anal. Appl., 33 (2012), pp. 336–368], which shows that the
+decoupling of the regular part
+can be done already with the help of the Wong sequences of the original
+matrix pencil. Furthermore,
+we show that the complete Kronecker canonical form can be obtained with the
+help of the Wong
+sequences.

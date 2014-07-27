@@ -1,0 +1,13 @@
+A novel semi-fragile watermark scheme for image authentication is proposed
+in this paper. New scheme extracts the image content features from the low
+frequency domain to generate watermarks, inserts obtained feature into the
+image by modulating the wavelet domain, and the watermark generation and
+embedment are disposed in the image. To enhance the robustness and
+invisibility, the adaptive quantization is used, and quantization step is
+calculated according to the local image characteristics. The integrity
+authentication and tamper detection are implemented by comparing the
+extracted watermark and the extracted content feature. Experimental result
+shows that the proposed scheme is robust to common image processing (such as
+JPEG compression, noise-adding, filtering), but malicious changes of the
+image will result in alarms of the watermark detection. In addition,
+proposed scheme can detect the exact locations-the illegal modified blocks.

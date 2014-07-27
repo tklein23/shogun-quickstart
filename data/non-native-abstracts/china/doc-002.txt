@@ -1,0 +1,25 @@
+With the ever growing network traffic, capacity of paths in the networks
+nowadays has become increasingly easy to saturate. This brings new challenge
+to TCP throughput prediction. The main problem is loss rate and RTT during
+the TCP flow are often expected as inputs for the throughput models used in
+the prediction; however, only loss rate and RTT before the flow are
+available and are used instead. If the flow itself causes significant
+changes in loss rate and RTT, e.g., when the TCP flow attempts to saturate
+the underlying available bandwidth, the prediction error can be unacceptably
+large. Though new prediction approaches are being proposed, they basic
+require record of previous TCP transfers and are applicable only when TCP
+transfers are performed repeatedly, which limits their application. In this
+work, by properly using a measurement of the underlying available bandwidth,
+we develop an analytical TCP throughput model which can explicitly capture
+changes in loss rate and RTT caused by the target TCP flow and hence, can
+largely improve the prediction accuracy by making the prediction aware of
+capacity saturation of paths while at the same does not require any history
+record of previous TCP transfers as current newly proposed works do. Results
+show that when the changes in loss rate and RTT are large, the errors by
+traditional models can be as large as over 200%, whereas the error by the
+proposed model is usually very small, e.g., with the average error below 10%
+and the maximum error below 20% for general settings, and is bounded by the
+measurement error of available bandwidth in the worse case; when the changes
+in loss rate and RTT are small, even a very rough estimation of available
+bandwidth, e.g., with an error of around 50%, can lead to very accurate
+prediction by the proposed model.

@@ -1,0 +1,18 @@
+Accurate experimental data on pressure broadened profiles of (16)O(12)C(32)S
+pure rotational lines in a broad range of quantum number J have been
+analyzed taking into account the speed dependence of collisional relaxation.
+Refined values of collisional self-broadening coefficients are determined
+and compared to previously known data. New quantitative information on
+departures of observed line shapes from the traditional Voigt profile is
+obtained. It is shown that these departures result mainly from the speed
+dependence of collisional relaxation. Theoretical calculations of
+self-broadening parameters are performed in the framework of the
+semiclassical impact Robert-Bonamy formalism where the mean relative
+molecular speed as well as the Maxwell-Boltzmann distribution of relative
+speeds is considered. The necessity of allowance for the speed dependence in
+line shape models is confirmed and satisfactory results have been obtained
+by arbitrarily limiting the integration of the differential cross section to
+a finite value of the impact parameter. It is shown for the first time for
+the whole rotational spectrum that speed dependent models not only improve
+accuracy of modeling the observed line profiles but also give physically
+grounded values of collisional relaxation parameters.

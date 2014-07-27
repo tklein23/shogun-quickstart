@@ -1,0 +1,18 @@
+Influence of both calcination ambient and film thickness on the optical and
+structural properties of sol–gel derived TiO2 thin films have been studied.
+X-ray diffraction results show that prepared films are in an anatase form of
+TiO2. Films calcined in argon or in low vacuum (∼2×10−1mbar) are found to be
+smaller in crystallite size, more transparent at low wavelength region of
+∼300–450nm, denser, have higher refractive index and band gap energy
+compared to air-calcined films. Scanning electron microscopic study reveals
+that surfaces of TiO2 films calcined in argon or in low vacuum are formed by
+densely packed nano-sized particulates. Presence of voids and signs of
+agglomeration can be seen clearly in the surface microstructure of
+air-calcined films. In the thickness range ∼200–300nm, band gap energy and
+crystallite size of TiO2 films remain practically unaffected with film
+thickness but refractive index of thinner film is found to be marginally
+higher than that of thicker film. In this work, it has been shown that apart
+from temperature and soaking time, partial pressure of oxygen of the ambient
+is also an important parameter by which crystallite size, microstructure and
+optical properties of the TiO2 films may be tailored during calcination
+period.

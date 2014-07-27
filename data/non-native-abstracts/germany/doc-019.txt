@@ -1,0 +1,6 @@
+Differential algebraic equations (DAEs) are often automatically generated,
+in particular, by coupling different tools. These DAEs are unstructured in
+the sense that they do not reveal their mathematical structure a priori. In
+view of a reliable treatment of those DAEs, their mathematical structure
+should be uncovered and monitored also by computational methods. We discuss
+several computational aspects of the tractability index concept.

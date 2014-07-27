@@ -1,0 +1,15 @@
+Due to various network intrusions, network security has always been a main
+concern of the network administrator. However, nowadays traditional security
+tools like IDSs, firewalls etc cannot play the roles of effective defense
+mechanisms. Instead, they only generate elementary alerts to form alert
+flooding and they often have high false alerts rates. Moreover due to their
+weak collaboration-awareness, they cannot detect large distributed attacks
+such as a DDoS attack. In this paper, we present an efficient and effective
+model for collaborative alerts analyzing. Our system enhances the alert
+verification using assetsÂ¿ contextual information. By applying alert fusion
+and using a precisely defined knowledge base in the correlation phase, it
+also provides a method to get general and synthetic alerts from the large
+volume of elementary alerts. Moreover, this system is able to reconstruct
+the attack scenarios for multi-step attacks. Experiments show the system can
+effectively distinguish false positives, detect and predicate large-scale
+attacks in their early stage.

@@ -1,0 +1,23 @@
+Design of protein structure comparison algorithm is an important research
+issue, having far reaching implications. In this article, we describe a
+protein structure comparison scheme, which is capable of detecting correct
+alignments even in difficult cases, e.g. non-topological similarities. The
+proposed method computes protein structure alignments by comparing, small
+substructures, called neighborhoods. Two different types of neighborhoods,
+sequence and structure, are defined, and two algorithms arising out of the
+scheme are detailed. A new method for computing equivalences having
+non-topological similarities from pairwise similarity score is described. A
+novel and fast technique for comparing sequence neighborhoods is also
+developed.
+The experimental results show that the current programs show better
+performance on Fischer and Novotny's benchmark datasets, than state of the
+art programs, e.g. DALI, CE and SSM. Our programs were also found to
+calculate correct alignments for proteins with huge amount of indels and
+internal repeats. Finally, the sequence neighborhood based program was used
+in extensive fold and non-topological similarity detection experiments. The
+accuracy of the fold detection experiments with the new measure of
+similarity was found to be similar or better than that of the standard
+algorithm CE.
+A new scheme, resulting in two algorithms, have been developed, implemented
+and tested. The programs developed are accessible at
+http://mllab.csa.iisc.ernet.in/mp2/runprog.html.

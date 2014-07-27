@@ -1,0 +1,16 @@
+Development of Blog texts information on the internet has brought new
+challenge to Chinese text classification. Aim to solving the semantics
+deficiency problem in traditional methods for Chinese text classification,
+this paper implements a text classification method on classifying a blog as
+joy, angry, sad or fear using a simple unsupervised learning algorithm. The
+classification of a blog text is predicted by the max semantic orientation
+(SO) of the phrases in the blog text that contains adjectives or adverbs. In
+this paper, the SO of a phrase is calculated as the mutual information
+between the given phrase and the polar words. Then the SO of the given blog
+text is determined by the max mutual information value. A blog text is
+classified as joy if the SO of its phrases is joy. Two different corpora are
+adopted to test our method, one is the Blog corpus collected by Monitor and
+Research Center for National Language Resource Network Multimedia Sub-branch
+Center, and the other is Chinese dataset provided by COAE2008 task. Based on
+the two datasets, the method respectively achieves a high improvement
+compared to the traditional methods.

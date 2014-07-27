@@ -1,0 +1,16 @@
+ We present Stratosphere, an open-source software stack for parallel data
+analysis. Stratosphere brings together a unique set of features that allow
+the expressive, easy, and efficient programming of analytical applications
+at very large scale. Stratosphere’s features include “in situ” data
+processing, a declarative query language, treatment of user-defined
+functions as first-class citizens, automatic program parallelization and
+optimization, support for iterative programs, and a scalable and efficient
+execution engine. Stratosphere covers a variety of “Big Data” use cases,
+such as data warehousing, information extraction and integration, data
+cleansing, graph analysis, and statistical analysis applications. In this
+paper, we present the overall system architecture design decisions,
+introduce Stratosphere through example queries, and then dive into the
+internal workings of the system’s components that relate to extensibility,
+programming model, optimization, and query execution. We experimentally
+compare Stratosphere against popular open-source alternatives, and we
+conclude with a research outlook for the next years.

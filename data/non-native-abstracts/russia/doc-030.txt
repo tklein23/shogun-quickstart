@@ -1,0 +1,4 @@
+We describe an approach to solve numerically external scattering problems
+for the Helmholtz equation. The approach is based on the difference
+potentials method with the use of a special form of the potentials
+satisfying the radiation condition.

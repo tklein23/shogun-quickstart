@@ -1,0 +1,5 @@
+This letter proposes a model of FAST TCP that captures its dynamics in
+asymmetric networks. It is found that, as in symmetric networks FAST TCP can
+achieve stability but its throughput degrades as a function of a measure of
+the asymmetry that we call asymmetry factor. The theoretical results are
+validated by simulations.

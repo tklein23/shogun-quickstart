@@ -1,0 +1,8 @@
+Particle swarm optimization (PSO) is a novel stochastic optimization
+algorithm based on the study of migration behaviors of bird flock in the
+process of searching food. Inertia weight, as an important parameter in PSO
+algorithm, plays a very important role in controlling the exploitation and
+exploration ability of algorithm. Recently, much more attention has been
+paid to the research of modified PSO based on dynamic inertia weight. This
+paper simply introduces the principle of PSO and overviews the research
+advances about dynamic inertia weight in existing references.

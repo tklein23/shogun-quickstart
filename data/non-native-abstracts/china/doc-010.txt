@@ -1,0 +1,12 @@
+Wireless sensor network which is composed of a large number of low-cost,
+low-power, multifunctional sensor nodes deployed in a remote environment to
+monitor and analyze the data collected in the physical world in a timely
+manner. Based on the feature of nodes with limited energy, people have done
+some deep research on the prolongation of the lifetime in the WSN. In this
+paper, we focus on reducing energy load among all the nodes and present an
+improved algorithm LEACH-D based on LEACH. The algorithm combines the ideas
+of adjusting the threshold function about the nodes, a fixed radius of the
+clustering and a multi-hop communication mechanism among the cluster heads
+to achieve advanced in terms of system lifetime energy load among all the
+nodes. Simulation results show that the new strategy of cluster-heads
+election can improve the network's lifetime effectively.

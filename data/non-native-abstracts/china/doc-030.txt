@@ -1,0 +1,11 @@
+It is hard to train the influence variables and to forecast the complex
+problems due to the time series. Recently the neural network method has been
+successfully employed to solve the forecasting problem. In this paper, an
+approach that integrate modified BP neural network optimized with particle
+swarm optimization algorithm (MBPPSO) is proposed which applied to forecast
+postgraduate entrant and employment problem. It introduces particle swarm
+optimization algorithm to optimize the initial weights of the BP neural
+network, which effectively improve velocity of convergence BP neural
+network. Moreover, the adaptive adjust learn strategy is introduced to avoid
+acutely shake of train and decrease the bias error. The experiment results
+show MBPPSO can achieve reasonable forecast result.

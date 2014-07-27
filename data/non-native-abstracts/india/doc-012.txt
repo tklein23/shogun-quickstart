@@ -1,0 +1,6 @@
+ In this paper, a strong inversion drain current model incorporating various
+effects such as channel length modulation has been developed for a
+short-channel symmetrical triple material - double gate (TM-DG) MOSFET based
+on the drift current equation. The model results have been compared with the
+simulation data obtained by using the commercially available device
+simulation software ATLAS™.

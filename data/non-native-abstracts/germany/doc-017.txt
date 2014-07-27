@@ -1,0 +1,30 @@
+African non-human primates (NHPs) are natural hosts for simian
+immunodeficiency viruses (SIV), the zoonotic transmission of which led to
+the emergence of HIV-1 and HIV-2. However, our understanding of SIV
+diversity and evolution is limited by incomplete taxonomic and geographic
+sampling of NHPs, particularly in East Africa. In this study, we screened
+blood specimens from nine black-and-white colobus monkeys (Colobus guereza
+occidentalis) from Kibale National Park, Uganda, for novel SIVs using a
+combination of serology and "unbiased" deep-sequencing, a method that does
+not rely on genetic similarity to previously characterized viruses.
+We identified two novel and divergent SIVs, tentatively named SIVkcol-1 and
+SIVkcol-2, and assembled genomes covering the entire coding region for each
+virus. SIVkcol-1 and SIVkcol-2 were detected in three and four animals,
+respectively, but with no animals co-infected. Phylogenetic analyses showed
+that SIVkcol-1 and SIVkcol-2 form a lineage with SIVcol, previously
+discovered in black-and-white colobus from Cameroon. Although SIVkcol-1 and
+SIVkcol-2 were isolated from the same host population in Uganda, SIVkcol-1
+is more closely related to SIVcol than to SIVkcol-2. Analysis of functional
+motifs in the extracellular envelope glycoprotein (gp120) revealed that
+SIVkcol-2 is unique among primate lentiviruses in containing only 16
+conserved cysteine residues instead of the usual 18 or more.
+Our results demonstrate that the genetic diversity of SIVs infecting
+black-and-white colobus across equatorial Africa is greater than previously
+appreciated and that divergent SIVs can co-circulate in the same colobine
+population. We also show that the use of "unbiased" deep sequencing for the
+detection of SIV has great advantages over traditional serological
+approaches, especially for studies of unknown or poorly characterized
+viruses. Finally, the detection of the first SIV containing only 16
+conserved cysteines in the extracellular envelope protein gp120 further
+expands the range of functional motifs observed among SIVs and highlights
+the complex evolutionary history of simian retroviruses.

@@ -1,0 +1,11 @@
+This paper proposes a quadrilateral finite element method of the lowest
+order for Reissner–Mindlin (R–M) plates on the basis of Hellinger–Reissner
+variational principle, which includes variables of displacements, shear
+stresses and bending moments. This method uses continuous piecewise
+isoparametric bilinear interpolation for the approximation of transverse
+displacement and rotation. The piecewise-independent shear stress/bending
+moment approximation is constructed by following a self-equilibrium
+criterion and a shear-stress-enhanced condition. A priori and reliable a
+posteriori error estimates are derived and shown to be uniform with respect
+to the plate thickness t. Numerical experiments confirm the theoretical
+results.

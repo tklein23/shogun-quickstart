@@ -1,0 +1,10 @@
+Effect on microstructure, hardness, modulus, fracture toughness and
+oxidation behaviour of Al2O3–ZrB2 composite with different percentages of
+Titanium as diluents during the SHS reaction has been studied. It was
+observed that Ti addition leads to formation of different phases such as
+TiB2, ZrO2, TiB besides ZrB2 and Al2O3. The hardness and modulus were found
+to be around 21 GPa and 350 GPa, respectively for 10 wt.% Ti addition in
+dynamic depth indentation. Oxidation study of the sample having 25 wt.%
+Titanium showed no significant change in phase and mechanical properties
+after 700 °C oxidation. The toughness of 20 wt.% Ti sample showed highest
+fracture toughness.

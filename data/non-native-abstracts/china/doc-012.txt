@@ -1,0 +1,13 @@
+Against the defect that the traditional computer network security management
+system processes a mass of data with low efficiency and accuracy, a novel
+network security management model based on data mining is proposed in this
+paper. It makes use of multi-source data collection strategy to acquisition
+and integrate the relevant data of different security products, and takes
+advantage of data mining technology for massive data to analyze them
+comprehensively and intelligently and response automatically. The
+experimental result reveals that the model performs well. It can identify
+the real attacks from a large number of security events with a good
+performance, so that the alarm information will be refined with low false or
+wrong alarms, the accuracy, intelligence and adaptability of network
+security management will be enhanced and the requirements of new security
+situation will be met.

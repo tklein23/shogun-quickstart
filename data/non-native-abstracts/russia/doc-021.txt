@@ -1,0 +1,9 @@
+The paper presents an approach to fast approximate estimation of conditions
+for space-time structures appearing in the flows. The approach is based on
+combination of optimization problem computation with methods of data visual
+presentation. The visual presentation methods are applied for analysis of
+multidimensional array containing discrete result data. Optimization problem
+solution is implemented by parallel computation in a multitask form. For
+some cases, the approach allows to obtain for control parameter of
+considered problem the sought-for approximate dependence on characteristic
+parameters in a quasi-analytical form.

@@ -1,0 +1,28 @@
+In this paper, an ultra-wideband (UWB) antenna with dual band-notched
+characteristics
+is proposed. The proposed antenna also covers ISM (Industrial, Scientific,
+and
+Medical)/Bluetooth band. The antenna consists of a microstrip fed truncated
+U-shaped patch,
+T-shaped stub, rectangular mushroom type electromagnetic band gap structures
+(EBG), and
+partial ground plane. To mitigate the problem of interference due to
+standard narrow bands
+(like wireless interoperability microwave access (WiMAX) and wireless local
+area network
+(WLAN)) lie in the range of UWB, dual band notched characteristics is
+introduced. The
+WiMAX and WLAN band notched characteristics are realized by introducing a
+T-shaped
+stub and rectangular mushroom type EBG structures, respectively. The
+proposed antenna
+is printed on a 1.6mm thick FR4 substrate with relative permittivity (εr)
+4.4 and the size
+of actual antenna is 36 × 40 mm2. The measured results shows that the
+proposed antenna
+attains a wide impedance bandwidth (VSWR ≤ 2) from 2.35 to 11.6GHz with dual
+band
+notched characteristics from 3.29 to 3.9GHz and 5.1 to 5.85GHz with stable
+radiation patterns. The time domain behaviors of the proposed antenna is also analyzed for pulse
+handling
+capability.

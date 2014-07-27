@@ -1,0 +1,10 @@
+For finite and compact infinite metric spaces, a concept of a (weighted)
+τ-design is introduced which depends on a choice of a substitution function.
+To estimate the minimum size of a τ-design a system of orthogonal
+polynomials is defined using the average measure of metric balls and the
+substitution function. A universal lower bound on the size of τ-designs is
+obtained with the help of the solution of the known extremum problem for
+systems of orthogonal polynomials. The concept of a τ-design and the bound
+considered coincide with those in the case of polynomial association schemes
+of Delsarte and the Euclidean sphere for the proper choices of the
+substitution functions. This bound is also calculated for some other spaces.

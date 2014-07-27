@@ -1,0 +1,4 @@
+Customers arrive in a renewal process at a queue which is served by an
+exponential and a two-stage Erlangian server. We prove the optimal policy
+for assignment of customers to the servers which for any t maximizes the
+expected number of served customers in [0,t].

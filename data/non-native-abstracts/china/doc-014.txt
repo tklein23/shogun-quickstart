@@ -1,0 +1,5 @@
+Cloud computing has been brought to the classroom in some place. This paper
+first analyzes possible application modes for CES(cloud educational
+system):Centralized, Distributed and Hybrid, then proposes general
+architecture for CES. At last, various challenges and viable solutions are
+discussed.

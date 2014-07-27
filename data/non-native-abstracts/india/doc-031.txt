@@ -1,0 +1,19 @@
+Having long been recognized in combinatorics, the concept of
+submodularity is becoming increasingly important in machine learning, since
+it can capture intuitive and yet nontrivial interactions between variables.
+This expressiveness has found many applications in machine learning,
+particularly in understanding structured data like text, vision and speech.
+Submodular functions naturally capture aspects of information, coverage
+and diversity in maximization problems, while also modeling notions of
+cooperation, sparsity, complexity and economies of scale in minimization
+problems. In this talk, we shall consider a large class of submodular
+optimization problems and motivate them with several real world
+applications, particularly in machine learning. We shall then provide a
+unifying algorithmic framework for solving several of these optimization
+problems, and highlight the scalability and practicality of this approach.
+We shall ground this entire talk with a large number of applications in
+machine learning, including image segmentation, image correspondence, image
+collection summarization, document and news summarization, feature
+selection, and training data subset selection. This talk should be self
+contained and shall not require prior knowledge of submodular functions and
+optimization.

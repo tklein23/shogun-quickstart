@@ -1,0 +1,11 @@
+How to improve the efficiency of discovering the frequent item sets is a
+major problem in mining association rules. This paper analysised the idea
+and performance of the general quantitative association rules algorithm ,and
+put forward a quantitative association rules mining algorithm based on
+matrix, the new algorithm firstly transformed quantitative database into
+Boolean matrix ,then used boolean "and" operation to generate frequent item
+sets on matrix vector .It effectively solved the bottleneck of Apriori
+algorithm which iteratively produced frequent item sets in the general
+quantitative association rules algorithm . The results of experiments and
+analysis showed that the new algorithm effectively improved the efficiency
+of mining quantitative association rules.

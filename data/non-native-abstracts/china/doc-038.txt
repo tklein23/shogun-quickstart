@@ -1,0 +1,8 @@
+The central problem presenting in current Chinese character glyph
+descriptions is the standard character set canpsilat cover all possible
+Chinese characters, some particular variants of characters that are
+ldquounifiedrdquo also canpsilat describe and display. As a database
+language based on XML, Character Description Language (CDL) can help resolve
+both of the difficulties just mentioned. This paper presents the key
+features and syntax of the language, and discusses some of its applications,
+especially to learning and recognizing Chinese characters.

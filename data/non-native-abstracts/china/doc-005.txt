@@ -1,0 +1,8 @@
+Based on the Okumura-Hata propagation model, we analyzed theoretically the
+effect of background noise on WCDMA properties, and educed the relation
+between background noise and coverage capacity. The simulation about noise
+indicates that, when background noise increases by about 1 dB, WCDMA
+coverage area is reduced by 12%, and the increase of background noise also
+reduces capacity. In a word, an increase of background noise debases WCDMA
+properties, and these effects are different if the height of NodeB antennas,
+NodeB transmitted signal power or cell coverage radius is varied.
